@@ -18,7 +18,7 @@ async function load(env, req, t){ const r = await env.ASSETS.fetch(new URL(SRC[t
 const urlFor = (t,s) => `https://gulfaideals.com/${t==="deal"?"deals":t==="tool"?"tools":"use-cases"}/${s}/`;
 async function callTool(env, req, name, a = {}){
   const n = Math.min(Math.max(parseInt(a.limit||10),1),50); let rows, t;
-  if (name==="search_deals"){ t="deal"; rows=(await load(env,req,t)).filter(d=>has(JSON.stringify([d.title,d.summary,d.parties]),a.query)&&has(d.country,a.country)&&has(d.category,a.category)&&(!a.since||d.date>=a.since)); }
+  if (name==="search_deals"){ t="deal"; rows=(await load(env,req,t)).filter(d=>has(JSON.stringify([d.title,d.summary,d.parties,d.title_ar,d.summary_ar]),a.query)&&has(d.country,a.country)&&has(d.category,a.category)&&(!a.since||d.date>=a.since)); }
   else if (name==="search_use_cases"){ t="use_case"; rows=(await load(env,req,t)).filter(u=>has(JSON.stringify(u),a.query)&&has(u.sector,a.sector)&&has(u.country,a.country)); }
   else if (name==="search_tools"){ t="tool"; rows=(await load(env,req,t)).filter(x=>has(JSON.stringify(x),a.query)&&has(x.category,a.category)); }
   else if (name==="get_item"){ if(!SRC[a.type]) throw new Error("type must be deal, use_case or tool"); const it=(await load(env,req,a.type)).find(x=>x.slug===a.slug); if(!it) throw new Error("not found: "+a.slug); return {...it, page_url:urlFor(a.type,it.slug)}; }

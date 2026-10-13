@@ -23,3 +23,9 @@ More: [gulfaideals/gulf-ai-hub-mcp](https://github.com/gulfaideals/gulf-ai-hub-m
 
 ## License
 Code: MIT. Data (`data/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), attribute "Gulf AI Deals (gulfaideals.com)". Underlying facts belong to their linked sources.
+
+## Bilingual (Arabic-first)
+- Arabic at `/` (RTL, IBM Plex Sans Arabic); English at `/en/`, linked with hreflang plus a language switcher. RSS feeds: `/rss.xml` (Arabic) and `/en/rss.xml` (English).
+- Records carry `title_ar` / `summary_ar` (deals and use cases) and `name_ar` / `description_ar` (tools). `source_url_ar` is set where an Arabic source exists. MCP search matches Arabic queries and returns both languages.
+- `scripts/daily.sh` runs the steps refresh → `ar_auto.py` → build → deploy → IndexNow. `refresh.py` also ingests Arabic-language news from a whitelist of Gulf outlets. `ar_auto.py` fills in the missing language through an LLM when `XAI_API_KEY` or `OPENAI_API_KEY` is set in `.secrets`. Otherwise it flags the item as "translation pending" and lists it in `data/ar_pending.json`.
+- `CLOUDFLARE_ACCOUNT_ID` and `EXPORT_SECRET` are read from the untracked `.secrets` file.

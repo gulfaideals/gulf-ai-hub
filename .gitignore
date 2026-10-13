@@ -1,9 +1,9 @@
+node_modules/
 .secrets
 .gh_token
-node_modules/
-dist/
 .wrangler/
-issues/
-*.png
-.env*
+dist/
+*.log
 __pycache__/
+issues/
+data/ar_pending.json

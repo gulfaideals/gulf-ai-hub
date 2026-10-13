@@ -4,9 +4,10 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 [ -f "$HOME/.profile" ] && source "$HOME/.profile" >/dev/null 2>&1 || true
 [ -f "$HOME/.bashrc" ] && source "$HOME/.bashrc" >/dev/null 2>&1 || true
-set -a; source ./.secrets; set +a
-export SITE_URL=https://gulfaideals.com CLOUDFLARE_ACCOUNT_ID=${CLOUDFLARE_ACCOUNT_ID:?set in .secrets} WRANGLER_SEND_METRICS=false
+set -a; source ./.secrets; set +a   # .secrets provides EXPORT_SECRET, CLOUDFLARE_ACCOUNT_ID (+ optional XAI_API_KEY/OPENAI_API_KEY for Arabic generation)
+export SITE_URL=https://gulfaideals.com WRANGLER_SEND_METRICS=false
 python3 scripts/refresh.py > /tmp/gad_refresh.json
+python3 scripts/ar_auto.py
 python3 scripts/build.py > /dev/null
 /workspace/cftools/node_modules/.bin/node /workspace/cftools/node_modules/wrangler/bin/wrangler.js pages deploy dist --project-name gulfaideals --branch main --commit-dirty=true 2>&1 | grep -E "Deployment complete|ERROR" | sed 's/Take a peek.*//' || true
 python3 - <<'PY'

@@ -1,4 +1,12 @@
+# NOTE: historical seed (2026-10-13). Do not re-run: it would overwrite curated data/deals.json. See quality_fix_2026_10_13.py.
 import json
+def headline(t,limit=90):
+    """Complete headline: never cut mid-word; trims at a word boundary and drops trailing filler."""
+    t=" ".join(str(t).split()).rstrip(" .")
+    if len(t)<=limit: return t
+    cut=t[:limit+1].rsplit(" ",1)[0]
+    cut=re.sub(r"[\s,;:–-]+(and|or|of|to|the|a|an|in|for|with|at|by|on)$","",cut,flags=re.I).rstrip(" ,;:–-")
+    return cut
 R=[
 ("2025-10-28","day","Saudi Arabia",["HUMAIN","AirTrunk","Blackstone"],"data center",3e9,"USD","HUMAIN and Blackstone-backed AirTrunk agreed a long-term partnership to finance, build and operate AI data centers in Saudi Arabia, starting with a ~US$3bn campus. AirTrunk's first Middle East move.","https://www.blackstone.com/news/press/humain-and-blackstone-backed-airtrunk-announce-partnership-to-build-state-of-the-art-data-centers-in-the-kingdom-of-saudi-arabia/"),
 ("2025-12-18","day","Saudi Arabia",["stc / center3","HUMAIN"],"partnership",None,None,"stc's center3 signed an MoU with HUMAIN to form a 51/49 data center JV targeting 1GW of AI capacity, initially 250MW subject to customer commitments.","https://www.datacenterdynamics.com/en/news/saudi-telecom-company-signs-mou-with-humain-to-develop-1gw-of-data-center-capacity/"),
@@ -46,7 +54,7 @@ R=[
 import re,hashlib
 out=[]
 for d,p,c,parties,cat,v,cur,s,u in R:
-    t=f"{parties[0]}: {s.split('.')[0][:90]}"
+    t=headline(s.split(". ")[0])
     slug=re.sub(r'[^a-z0-9]+','-',(d+'-'+' '.join(parties[:2])+'-'+cat).lower()).strip('-')
     out.append(dict(id=hashlib.sha1(u.encode()+s.encode()).hexdigest()[:10],slug=slug,date=d,date_precision=p,country=c,parties=parties,category=cat,value=v,currency=cur,title=t,summary=s,source_url=u))
 seen=set()

@@ -7,7 +7,10 @@
   "arabic_support": "Arabic incl. dialects (per paper)",
   "pricing": "Open weights",
   "url": "https://inceptionai.ai",
-  "source_url": "https://arxiv.org/abs/2608.13580"
+  "source_url": "https://arxiv.org/abs/2608.13580",
+  "description_ar": "عائلة نماذج لغوية مفتوحة تتمحور حول العربية بحجمي 8 و70 مليار معامل، تركز على الأداء في العربية ولهجاتها.",
+  "arabic_support_ar": "العربية ولهجاتها (وفق الورقة البحثية)",
+  "name_ar": "جيس 2"
  },
  {
   "slug": "falcon-h1-arabic",
@@ -17,7 +20,10 @@
   "arabic_support": "Arabic incl. dialects (per TII blog)",
   "pricing": "Open weights",
   "url": "https://falcon-lm.github.io",
-  "source_url": "https://falcon-lm.github.io/blog/falcon-h1-arabic/"
+  "source_url": "https://falcon-lm.github.io/blog/falcon-h1-arabic/",
+  "description_ar": "نماذج «فالكون» العربية من معهد الابتكار التكنولوجي بمعمارية هجينة وسياق طويل (3 و7 و34 مليار معامل).",
+  "arabic_support_ar": "العربية ولهجاتها (وفق المعهد)",
+  "name_ar": "فالكون H1 العربي"
  },
  {
   "slug": "fanar",
@@ -27,7 +33,10 @@
   "arabic_support": "Arabic (MSA and dialects per paper)",
   "pricing": "Free access / research",
   "url": "https://fanar.qa",
-  "source_url": "https://fdalvi.github.io/research/2026-03-arXiv-Fanar-2.0/paper.pdf"
+  "source_url": "https://fdalvi.github.io/research/2026-03-arXiv-Fanar-2.0/paper.pdf",
+  "description_ar": "منظومة «فنار» القطرية للذكاء الاصطناعي التوليدي بالعربية من معهد قطر لبحوث الحوسبة.",
+  "arabic_support_ar": "الفصحى واللهجات (وفق الورقة البحثية)",
+  "name_ar": "فنار"
  },
  {
   "slug": "allam",
@@ -37,7 +46,10 @@
   "arabic_support": "Arabic",
   "pricing": "Via cloud providers",
   "url": "https://www.humain.com",
-  "source_url": "https://www.humain.com/en/news/humain-and-aws-expand-strategic-collaboration.html"
+  "source_url": "https://www.humain.com/en/news/humain-and-aws-expand-strategic-collaboration.html",
+  "description_ar": "نموذج «علّام» السعودي من «سدايا» و«هيوماين»، ومتاح عبر Amazon Bedrock.",
+  "arabic_support_ar": "العربية",
+  "name_ar": "علّام"
  },
  {
   "slug": "silma",
@@ -47,7 +59,10 @@
   "arabic_support": "Arabic",
   "pricing": "Open weights",
   "url": "https://silma.ai",
-  "source_url": "https://huggingface.co/blog/silma-ai/arabic-llm-models-list"
+  "source_url": "https://huggingface.co/blog/silma-ai/arabic-llm-models-list",
+  "description_ar": "عائلة نماذج «سلمى» العربية بحجم 9 مليارات معامل.",
+  "arabic_support_ar": "العربية",
+  "name_ar": "سلمى"
  },
  {
   "slug": "command-r7b-arabic",
@@ -57,7 +72,10 @@
   "arabic_support": "Mainly MSA (per paper)",
   "pricing": "Open weights (non-commercial) + paid API",
   "url": "https://cohere.com",
-  "source_url": "https://arxiv.org/html/2503.14603"
+  "source_url": "https://arxiv.org/html/2503.14603",
+  "description_ar": "نموذج صغير من «كوهير» للمؤسسات بالعربية والإنجليزية، محسّن للبحث المعزز بالاسترجاع.",
+  "arabic_support_ar": "الفصحى أساساً (وفق الورقة البحثية)",
+  "name_ar": "Command R7B Arabic"
  },
  {
   "slug": "acegpt",
@@ -67,7 +85,10 @@
   "arabic_support": "Arabic",
   "pricing": "Open weights",
   "url": "https://github.com/FreedomIntelligence/AceGPT",
-  "source_url": "https://github.com/OsamaALHajj/awesome-arabic-ai"
+  "source_url": "https://github.com/OsamaALHajj/awesome-arabic-ai",
+  "description_ar": "نموذج لغوي عربي مواءَم ثقافياً من باحثين أكاديميين.",
+  "arabic_support_ar": "العربية",
+  "name_ar": "AceGPT"
  },
  {
   "slug": "noor",
@@ -77,7 +98,10 @@
   "arabic_support": "Arabic",
   "pricing": "See source",
   "url": "https://github.com/OsamaALHajj/awesome-arabic-ai",
-  "source_url": "https://github.com/OsamaALHajj/awesome-arabic-ai"
+  "source_url": "https://github.com/OsamaALHajj/awesome-arabic-ai",
+  "description_ar": "من أوائل النماذج اللغوية العربية واسعة النطاق، ومدرج في أدلة موارد الذكاء الاصطناعي العربي.",
+  "arabic_support_ar": "العربية",
+  "name_ar": "نور"
  },
  {
   "slug": "mawdoo3-ai-apis",
@@ -87,7 +111,10 @@
   "arabic_support": "Arabic",
   "pricing": "Paid API",
   "url": "https://ai.mawdoo3.com",
-  "source_url": "https://github.com/OsamaALHajj/awesome-arabic-ai"
+  "source_url": "https://github.com/OsamaALHajj/awesome-arabic-ai",
+  "description_ar": "واجهات برمجية من «موضوع» لتحليل المشاعر والموضوعات والكيانات والإشراف على المحتوى العربي.",
+  "arabic_support_ar": "العربية",
+  "name_ar": "واجهات «موضوع» للذكاء الاصطناعي"
  },
  {
   "slug": "baseer",
@@ -97,7 +124,10 @@
   "arabic_support": "Arabic",
   "pricing": "See vendor site",
   "url": "https://misraj.ai/en/models/baseer",
-  "source_url": "https://misraj.ai/en/models/baseer"
+  "source_url": "https://misraj.ai/en/models/baseer",
+  "description_ar": "نموذج رؤية ولغة من «مسراج» للتعرف الضوئي على النصوص العربية المطبوعة.",
+  "arabic_support_ar": "العربية",
+  "name_ar": "بصير"
  },
  {
   "slug": "baseer-nakba",
@@ -107,7 +137,10 @@
   "arabic_support": "Arabic handwriting",
   "pricing": "Open weights",
   "url": "https://huggingface.co/Misraj/Baseer__Nakba",
-  "source_url": "https://huggingface.co/Misraj/Baseer__Nakba"
+  "source_url": "https://huggingface.co/Misraj/Baseer__Nakba",
+  "description_ar": "نموذج للتعرف على المخطوطات العربية المكتوبة بخط اليد، فاز بمهمة «نكبة» للنصوص اليدوية 2026.",
+  "arabic_support_ar": "الخط العربي اليدوي",
+  "name_ar": "بصير - نكبة"
  },
  {
   "slug": "qari-ocr",
@@ -117,7 +150,10 @@
   "arabic_support": "Arabic",
   "pricing": "Open weights",
   "url": "https://huggingface.co/NAMAA-Space/Qari-OCR-v0.3-VL-2B-Instruct",
-  "source_url": "https://arxiv.org/html/2506.02295"
+  "source_url": "https://arxiv.org/html/2506.02295",
+  "description_ar": "نموذج مفتوح للتعرف الضوئي على العربية يحافظ على تنسيق الصفحة، ودعمه للخط اليدوي أولي.",
+  "arabic_support_ar": "العربية",
+  "name_ar": "قارئ OCR"
  },
  {
   "slug": "mistral-ocr",
@@ -127,7 +163,10 @@
   "arabic_support": "Arabic (printed)",
   "pricing": "Paid API",
   "url": "https://mistral.ai",
-  "source_url": "https://arxiv.org/html/2506.02295"
+  "source_url": "https://arxiv.org/html/2506.02295",
+  "description_ar": "أداة عامة لقراءة المستندات توصف بقوتها في النصوص العربية المطبوعة.",
+  "arabic_support_ar": "العربية المطبوعة",
+  "name_ar": "Mistral OCR"
  },
  {
   "slug": "munsit-stt",
@@ -137,7 +176,10 @@
   "arabic_support": "25+ Arabic dialects (vendor)",
   "pricing": "Paid API",
   "url": "https://munsit.com",
-  "source_url": "https://munsit.com/"
+  "source_url": "https://munsit.com/",
+  "description_ar": "واجهة للتعرف على الكلام العربي مع البث المباشر وتمييز المتحدثين.",
+  "arabic_support_ar": "أكثر من 25 لهجة (وفق المورّد)",
+  "name_ar": "منصت - تحويل الكلام إلى نص"
  },
  {
   "slug": "munsit-faseeh-tts",
@@ -147,7 +189,10 @@
   "arabic_support": "Emirati, Khaleeji, Najdi, Hijazi (vendor docs)",
   "pricing": "Paid API",
   "url": "https://docs.munsit.com",
-  "source_url": "https://docs.munsit.com/text-to-speech/voices"
+  "source_url": "https://docs.munsit.com/text-to-speech/voices",
+  "description_ar": "خدمة «فصيح» لتحويل النص إلى كلام بأصوات خليجية.",
+  "arabic_support_ar": "الإماراتية والخليجية والنجدية والحجازية (وفق المورّد)",
+  "name_ar": "منصت فصيح"
  },
  {
   "slug": "lahajati",
@@ -157,7 +202,10 @@
   "arabic_support": "192+ dialects/variants claimed (vendor)",
   "pricing": "Freemium",
   "url": "https://lahajati.ai/en",
-  "source_url": "https://lahajati.ai/en"
+  "source_url": "https://lahajati.ai/en",
+  "description_ar": "مولّد أصوات عربية للتعليق الصوتي والكتب المسموعة، مع تحويل الكلام إلى نص وتصدير الترجمات.",
+  "arabic_support_ar": "أكثر من 192 لهجة ونمطاً (وفق المورّد)",
+  "name_ar": "لهجاتي"
  },
  {
   "slug": "elevenlabs-dubbing",
@@ -167,7 +215,10 @@
   "arabic_support": "Arabic (ar) and Egyptian Arabic (ar-EG) on Dubbing v2",
   "pricing": "Freemium / subscription",
   "url": "https://elevenlabs.io",
-  "source_url": "https://elevenlabs.io/docs/overview/capabilities/dubbing.mdx"
+  "source_url": "https://elevenlabs.io/docs/overview/capabilities/dubbing.mdx",
+  "description_ar": "دبلجة متعددة اللغات بالذكاء الاصطناعي مع استنساخ الصوت.",
+  "arabic_support_ar": "العربية والمصرية (الإصدار الثاني)",
+  "name_ar": "ElevenLabs Dubbing"
  },
  {
   "slug": "heygen-video-translate",
@@ -177,7 +228,10 @@
   "arabic_support": "Arabic incl. country variants (per HeyGen locale guide)",
   "pricing": "Freemium / subscription",
   "url": "https://www.heygen.com/translate",
-  "source_url": "https://github.com/heygen-com/skills/blob/HEAD/heygen-translate/references/language-locale-guide.md"
+  "source_url": "https://github.com/heygen-com/skills/blob/HEAD/heygen-translate/references/language-locale-guide.md",
+  "description_ar": "ترجمة الفيديو مع استنساخ الصوت ومزامنة الشفاه إلى أكثر من 175 لغة.",
+  "arabic_support_ar": "العربية بمتغيراتها القُطرية (وفق دليل المورّد)",
+  "name_ar": "HeyGen Video Translate"
  },
  {
   "slug": "rask-ai",
@@ -187,7 +241,10 @@
   "arabic_support": "Arabic",
   "pricing": "Freemium / subscription",
   "url": "https://www.rask.ai",
-  "source_url": "https://www.rask.ai/free-tools/ai-dubbing/arabic-dubbing"
+  "source_url": "https://www.rask.ai/free-tools/ai-dubbing/arabic-dubbing",
+  "description_ar": "توطين الفيديو: ترجمة ودبلجة واستنساخ صوت وترجمة نصية ومزامنة شفاه.",
+  "arabic_support_ar": "العربية",
+  "name_ar": "Rask AI"
  },
  {
   "slug": "amazon-polly-gulf-arabic",
@@ -197,7 +254,10 @@
   "arabic_support": "Gulf Arabic (ar-AE), MSA",
   "pricing": "Pay-as-you-go",
   "url": "https://aws.amazon.com/polly/",
-  "source_url": "https://docs.aws.amazon.com/polly/latest/dg/available-voices.html"
+  "source_url": "https://docs.aws.amazon.com/polly/latest/dg/available-voices.html",
+  "description_ar": "خدمة تحويل النص إلى كلام من AWS بصوتين خليجيين هما «هالة» و«زايد».",
+  "arabic_support_ar": "الخليجية والفصحى",
+  "name_ar": "Amazon Polly (Gulf Arabic)"
  },
  {
   "slug": "azure-ai-speech-tts",
@@ -207,7 +267,10 @@
   "arabic_support": "Country locales incl. all GCC",
   "pricing": "Pay-as-you-go",
   "url": "https://azure.microsoft.com/products/ai-services/ai-speech",
-  "source_url": "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support"
+  "source_url": "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support",
+  "description_ar": "أصوات عصبية من مايكروسوفت لكل دولة عربية، منها الإمارات والسعودية والكويت وقطر.",
+  "arabic_support_ar": "لهجات قُطرية تشمل دول الخليج كافة",
+  "name_ar": "Azure AI Speech TTS"
  },
  {
   "slug": "azure-ai-speech-stt",
@@ -217,7 +280,10 @@
   "arabic_support": "Arabic country locales",
   "pricing": "Pay-as-you-go",
   "url": "https://azure.microsoft.com/products/ai-services/ai-speech",
-  "source_url": "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support"
+  "source_url": "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support",
+  "description_ar": "خدمة مايكروسوفت للتعرف على الكلام بمتغيرات عربية قُطرية.",
+  "arabic_support_ar": "متغيرات عربية قُطرية",
+  "name_ar": "Azure AI Speech STT"
  },
  {
   "slug": "google-cloud-speech-to-text",
@@ -227,7 +293,10 @@
   "arabic_support": "18 Arabic locales",
   "pricing": "Pay-as-you-go",
   "url": "https://cloud.google.com/speech-to-text",
-  "source_url": "https://docs.cloud.google.com/speech-to-text/docs/speech-to-text-supported-languages"
+  "source_url": "https://docs.cloud.google.com/speech-to-text/docs/speech-to-text-supported-languages",
+  "description_ar": "خدمة «غوغل» للتعرف على الكلام بمتغيرات عربية تشمل الإمارات والسعودية والكويت وقطر والبحرين وعُمان.",
+  "arabic_support_ar": "18 متغيراً عربياً",
+  "name_ar": "Google Cloud Speech-to-Text"
  },
  {
   "slug": "deepgram-nova-3",
@@ -237,7 +306,10 @@
   "arabic_support": "Arabic",
   "pricing": "Pay-as-you-go",
   "url": "https://deepgram.com",
-  "source_url": "https://voicearabic.com/en"
+  "source_url": "https://voicearabic.com/en",
+  "description_ar": "نموذج لحظي لتحويل الكلام إلى نص يُعد خياراً قوياً للعربية في الوكلاء الصوتيين (وفق دليل مستقل).",
+  "arabic_support_ar": "العربية",
+  "name_ar": "Deepgram Nova-3"
  },
  {
   "slug": "arabic-ai-suite",
@@ -247,7 +319,10 @@
   "arabic_support": "22 dialects for speech (vendor)",
   "pricing": "Enterprise",
   "url": "https://arabic.ai",
-  "source_url": "https://arabic.ai/"
+  "source_url": "https://arabic.ai/",
+  "description_ar": "منصة مؤسسية للذكاء الاصطناعي العربي تشمل الكلام والوكلاء، قابلة للنشر داخل بيئة العميل.",
+  "arabic_support_ar": "22 لهجة للكلام (وفق المورّد)",
+  "name_ar": "منصة عربي إيه آي"
  },
  {
   "slug": "maqsam-ai-agent",
@@ -257,7 +332,10 @@
   "arabic_support": "GCC, Levantine, Egyptian; Arabic-English mix (vendor)",
   "pricing": "Subscription",
   "url": "https://maqsam.com/ai-agent",
-  "source_url": "https://maqsam.com/ai-agent"
+  "source_url": "https://maqsam.com/ai-agent",
+  "description_ar": "وكيل ذكي عربي مدمج مع أنظمة مراكز الاتصال، مع تحويل إلى الموظفين وتكامل مع أنظمة إدارة العملاء.",
+  "arabic_support_ar": "الخليجية والشامية والمصرية مع المزج بالإنجليزية (وفق المورّد)",
+  "name_ar": "وكيل مقسم الذكي"
  },
  {
   "slug": "wittify",
@@ -267,7 +345,10 @@
   "arabic_support": "25+ Arabic dialects (vendor)",
   "pricing": "Subscription",
   "url": "https://wittify.ai",
-  "source_url": "https://wittify.ai/"
+  "source_url": "https://wittify.ai/",
+  "description_ar": "منصة منخفضة الأكواد لوكلاء متعددي القنوات (صوت وموقع وواتساب) مع استضافة البيانات في الخليج.",
+  "arabic_support_ar": "أكثر من 25 لهجة (وفق المورّد)",
+  "name_ar": "ويتيفاي"
  },
  {
   "slug": "lucidya",
@@ -277,17 +358,23 @@
   "arabic_support": "17 dialects (vendor)",
   "pricing": "Enterprise",
   "url": "https://www.lucidya.com",
-  "source_url": "https://www.lucidya.com/blog/culturally-relevant-ai-innovation-nuance-privacy-mena"
+  "source_url": "https://www.lucidya.com/blog/culturally-relevant-ai-innovation-nuance-privacy-mena",
+  "description_ar": "منصة لإدارة تجربة العملاء والرصد الاجتماعي بمعالجة متقدمة للغة العربية.",
+  "arabic_support_ar": "17 لهجة (وفق المورّد)",
+  "name_ar": "لوسيديا"
  },
  {
   "slug": "heybreez",
   "name": "HeyBreez",
   "category": "Voice agent",
-  "description": "Arabic voice agents deployed with Arabic.AI for telecom customer calls.",
+  "description": "Low-latency telephony and multi-agent voice infrastructure; partnered with Arabic.AI for enterprise Arabic voice agents.",
   "arabic_support": "Arabic",
   "pricing": "Enterprise",
-  "url": "https://aiinarabia.com/arabic-ai/arabic-ai-heybreez-etisalat-voice-agents-gulf-enterprise-2026",
-  "source_url": "https://aiinarabia.com/arabic-ai/arabic-ai-heybreez-etisalat-voice-agents-gulf-enterprise-2026"
+  "url": "https://heybreez.com",
+  "source_url": "https://arabic.ai/arabic-ai-and-heybreez-join-forces-to-run-arabic-voice-ai-at-enterprise-scale/",
+  "description_ar": "بنية اتصال صوتي منخفضة التأخير للوكلاء المتعددين، بالشراكة مع «عربي إيه آي».",
+  "arabic_support_ar": "العربية",
+  "name_ar": "HeyBreez"
  },
  {
   "slug": "atain",
@@ -297,7 +384,10 @@
   "arabic_support": "Multilingual incl. Arabic (vendor)",
   "pricing": "Enterprise",
   "url": "https://atain.com",
-  "source_url": "https://atain.com/client-outcome/agentic-ai-helps-a-leading-middle-eastern-airline-reduce-live-contacts-by-45-and-maintain-%E2%89%A590-even-during-disruptions/"
+  "source_url": "https://atain.com/client-outcome/agentic-ai-helps-a-leading-middle-eastern-airline-reduce-live-contacts-by-45-and-maintain-%E2%89%A590-even-during-disruptions/",
+  "description_ar": "ذكاء اصطناعي وكيلي لخدمة العملاء استخدمته ناقلة جوية في المنطقة.",
+  "arabic_support_ar": "متعدد اللغات يشمل العربية (وفق المورّد)",
+  "name_ar": "Atain"
  },
  {
   "slug": "mozn-focal",
@@ -306,7 +396,10 @@
   "description": "Saudi AI platform for real-time financial crime detection, used by Al Rajhi Bank.",
   "arabic_support": "Arabic-region focused",
   "pricing": "Enterprise",
-  "url": "https://mozn.sa",
-  "source_url": "https://aiinarabia.com/guides/ai-for-banking-gulf-2026-emirates-nbd-fab-al-rajhi-arabic-fraud"
+  "url": "https://www.mozn.ai",
+  "source_url": "https://www.mozn.ai/blog/alrajhi-bank-partners-with-mozn-to-harness-ai-in-the-fight-against-fraud",
+  "description_ar": "منصة سعودية للذكاء الاصطناعي في رصد الجرائم المالية لحظياً، يعتمدها مصرف الراجحي.",
+  "arabic_support_ar": "مخصصة للمنطقة العربية",
+  "name_ar": "موزن فوكال"
  }
 ]

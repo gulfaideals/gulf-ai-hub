@@ -1,3 +1,4 @@
+# NOTE: historical seed. Do not re-run (overwrites curated data); edit data/*.json directly.
 import json,re
 def slug(s): return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')[:70]
 N="https://www.thenationalnews.com/news/uae/2026/05/20/uae-launches-first-batch-of-ai-agents-to-aid-tax-audits-and-customer-service/"
