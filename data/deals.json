@@ -15,7 +15,10 @@
   "source_name": "Konsulteer",
   "source_domain": "konsulteer.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تتعاون هيوماين و«نابستر» لتطوير موظفين رقميين بذكاء اصطناعي عربي أصيل للمؤسسات",
+  "summary_ar": "تتعاون هيوماين و«نابستر» لتطوير موظفين رقميين بذكاء اصطناعي عربي أصيل للمؤسسات، بحسب «كونسولتير».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "7310deaea3",
@@ -33,7 +36,10 @@
   "source_name": "Arab News",
   "source_domain": "arabnews.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تستخدم وزارة الطاقة السعودية الذكاء الاصطناعي لاحتساب الاضطرابات قبل وقوعها",
+  "summary_ar": "تستخدم وزارة الطاقة السعودية الذكاء الاصطناعي لاحتساب الاضطرابات قبل وقوعها، بحسب ما أوردته «عرب نيوز».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "e4585da3d0",
@@ -51,7 +57,10 @@
   "source_name": "Fast Company Middle East",
   "source_domain": "fastcompanyme.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تقود الإمارات والسعودية أكثر من 80% من توسع مراكز البيانات في الخليج",
+  "summary_ar": "تقود الإمارات والسعودية أكثر من 80% من توسع مراكز البيانات في الخليج، بحسب «فاست كومباني الشرق الأوسط».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "95428f4c6d",
@@ -69,7 +78,10 @@
   "source_name": "BigGo Finance",
   "source_domain": "finance.biggo.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تتعاون «AIM Intelligence» مع «CPX» الإماراتية لدخول سوق أمن الذكاء الاصطناعي بالشرق الأوسط",
+  "summary_ar": "تتعاون «AIM Intelligence» مع «CPX» الإماراتية لدخول سوق أمن الذكاء الاصطناعي في الشرق الأوسط، بحسب «BigGo Finance».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "5c0a1ec58f",
@@ -87,7 +99,10 @@
   "source_name": "Utilities Middle East",
   "source_domain": "utilities-me.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "يدعو محللون مراكز البيانات السعودية إلى تعزيز الحماية وسط النزاع",
+  "summary_ar": "دعا محللون مراكز البيانات السعودية إلى تعزيز الحماية وسط النزاع، وفق ما نقلته «Utilities Middle East».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "50f1b8b550",
@@ -105,7 +120,10 @@
   "source_name": "Gulf Business",
   "source_domain": "gulfbusiness.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تطلق اتصالات الإمارات ترقية 5.5G مع طلب تطبيقات الذكاء الاصطناعي على رفع أسرع",
+  "summary_ar": "أطلقت اتصالات الإمارات ترقية 5.5G، مع تصاعد الطلب على سرعات رفع أسرع بفعل تطبيقات الذكاء الاصطناعي، وفق «Gulf Business».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "5f8dd76060",
@@ -123,7 +141,10 @@
   "source_name": "Arab News",
   "source_domain": "arabnews.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تطوّر السعودية 50% من شبكة الكهرباء مع صعود الطلب من الصناعة إلى الذكاء الاصطناعي",
+  "summary_ar": "تطوّر السعودية 50% من شبكة الكهرباء مع صعود الطلب من الصناعة إلى الذكاء الاصطناعي، وفق ما أوردته «عرب نيوز».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "28a389310a",
@@ -141,7 +162,10 @@
   "source_name": "Arabian Gulf Business Insight | AGBI",
   "source_domain": "agbi.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تواجه مراكز البيانات السعودية مخاطر أمنية متصاعدة",
+  "summary_ar": "تواجه مراكز البيانات السعودية مخاطر أمنية متصاعدة، وفق ما أوردته Arabian Gulf Business Insight | AGBI.",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "41a1b804ec",
@@ -159,7 +183,10 @@
   "source_name": "아시아경제",
   "source_domain": "asiae.co.kr",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تستهدف «SNT Energy» سوق توليد الكهرباء السعودية مدفوعة بطلب الذكاء الاصطناعي على الطاقة",
+  "summary_ar": "تستهدف «SNT Energy» سوق توليد الكهرباء في السعودية، مستفيدة من الطلب على الطاقة المرتبط بالذكاء الاصطناعي، وفق ما أوردته «آسيا الاقتصادية» الكورية.",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "6d3534590c",
@@ -177,7 +204,10 @@
   "source_name": "MarketWatch",
   "source_domain": "marketwatch.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "يحثّ مستشار مالي شخصاً حذراً على استثمار 350 ألف دولار في مركز بيانات بالإمارات",
+  "summary_ar": "يريد مستشار مالي من شخص يصف نفسه بأنه حذر إلى حد كبير استثمار 350 ألف دولار في مركز بيانات في الإمارات. ويتساءل الشخص عما إذا كانت الخطوة محفوفة بالمخاطر، وفق ما أوردته «MarketWatch».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "e9c653acb8",
@@ -195,7 +225,10 @@
   "source_name": "Konsulteer",
   "source_domain": "konsulteer.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تنضم «HARTING» لمنصة «MGX» من إنفيديا مع تحوّل مراكز بيانات الذكاء الاصطناعي إلى 800V",
+  "summary_ar": "انضمت «HARTING» إلى منصة «MGX» من إنفيديا، مع تحوّل مراكز بيانات الذكاء الاصطناعي نحو طاقة بجهد 800 فولت، بحسب «Konsulteer».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "435844ce3a",
@@ -213,7 +246,10 @@
   "source_name": "Khaleej Times",
   "source_domain": "khaleejtimes.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "يعزز التوجه الحكومي الإماراتي للذكاء الاصطناعي الاهتمام بأمن السحابة السيادية",
+  "summary_ar": "أوردت «الخليج تايمز» أن التوجه الحكومي الإماراتي للذكاء الاصطناعي يعزز الاهتمام بأمن السحابة السيادية.",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "22d2116f06",
@@ -231,7 +267,10 @@
   "source_name": "Konsulteer",
   "source_domain": "konsulteer.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تربط أبوظبي استثمار طاقة بقيمة 250 مليار درهم بتنامي طلب البنية التحتية للذكاء الاصطناعي",
+  "summary_ar": "ربطت أبوظبي استثماراً في الطاقة بقيمة 250 مليار درهم بارتفاع الطلب على البنية التحتية للذكاء الاصطناعي، بحسب «Konsulteer».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "f0ec209229",
@@ -249,7 +288,10 @@
   "source_name": "https://www.thetraveler.org/",
   "source_domain": "thetraveler.org",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تفعّل اتصالات الإمارات تعزيز الرفع بتقنية 5.5G لعصر الذكاء الاصطناعي",
+  "summary_ar": "فعّلت اتصالات الإمارات تعزيز الرفع بتقنية 5.5G لعصر الذكاء الاصطناعي، وفق ما أوردته «ذا ترافيلر».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "547083ba4c",
@@ -267,7 +309,10 @@
   "source_name": "Big News Network.com",
   "source_domain": "bignewsnetwork.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تنضم «HARTING» إلى منصة «MGX» من إنفيديا لدعم بنية الجيل المقبل للذكاء الاصطناعي",
+  "summary_ar": "انضمت «HARTING» إلى منصة «MGX» من إنفيديا لدعم البنية التحتية للجيل المقبل من الذكاء الاصطناعي، بحسب «Big News Network.com».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "b44bbdb4cd",
@@ -279,10 +324,9 @@
   "category": "partnership",
   "value": null,
   "currency": null,
-  "title": "«كور 42» الإماراتية و«أسولومباردا» الإيطالية توقّعان مذكرة تفاهم لتسريع تبنّي الذكاء الاصطناعي السيادي في الصناعة",
-  "title_pending": true,
+  "title": "UAE's Core42, Italy's Assolombarda Sign MoU on Sovereign AI",
   "title_ar": "«كور 42» الإماراتية و«أسولومباردا» الإيطالية توقّعان مذكرة تفاهم لتسريع تبنّي الذكاء",
-  "summary": "«كور 42» الإماراتية و«أسولومباردا» الإيطالية توقّعان مذكرة تفاهم لتسريع تبنّي الذكاء الاصطناعي السيادي في الصناعة",
+  "summary": "UAE's Core42 and Italy's Assolombarda signed a memorandum of understanding to accelerate the adoption of sovereign artificial intelligence in industry, Tawasul news network reported.",
   "summary_ar": "«كور 42» الإماراتية و«أسولومباردا» الإيطالية توقّعان مذكرة تفاهم لتسريع تبنّي الذكاء الاصطناعي السيادي في الصناعة، بحسب شبكة تواصل الإخبارية.",
   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yLTg5b3J5eFdYazdjRVhHaEpfUkFOMnBXZ2REREFOZWUzUnl6c1NqWVp0a0NXSWt4RDhLXzIwZnF2R1VTVmpBTWRNWFFzRWxoRktF?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yLTg5b3J5eFdYazdjRVhHaEpfUkFOMnBXZ2REREFOZWUzUnl6c1NqWVp0a0NXSWt4RDhLXzIwZnF2R1VTVmpBTWRNWFFzRWxoRktF?oc=5",
@@ -302,10 +346,9 @@
   "category": "data center",
   "value": null,
   "currency": null,
-  "title": "السعودية والإمارات تقودان طفرة استثمارات مراكز البيانات في الخليج",
-  "title_pending": true,
+  "title": "Saudi Arabia, UAE lead Gulf data center investment boom",
   "title_ar": "السعودية والإمارات تقودان طفرة استثمارات مراكز البيانات في الخليج",
-  "summary": "السعودية والإمارات تقودان طفرة استثمارات مراكز البيانات في الخليج",
+  "summary": "Saudi Arabia and the UAE are leading a boom in data center investments in the Gulf, according to Al Arabiya.",
   "summary_ar": "السعودية والإمارات تقودان طفرة استثمارات مراكز البيانات في الخليج، بحسب العربية.",
   "source_url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxNeVhMeV9JR280OEFaQ2p3QU5LcHN0YndlUjRZVTZmYW9pNUp4STYzY0s0Nlpzam1ZdlNzRW5WVzVSS3V5VjhfQjB4UHp6dktBeUpsLXVTNUI1YlVXbU5qTFFzQXlzSXBQNENyNjRINUlNcXE3cGpmWVNoa1RuTU5lZEdRNjBKSWw2LUNPUXYwaE9DVTVrSnk1VVFzdERQbDhzVmV3Tzk5alpSYVBMbk02YmFDN1loY2N3b3VNcGlVWnliNXlONG85a214WHJJQlF4SERtWndaRVJoY2F0T0VKUlBQSzNUYzdGbGZsZmZlUzBPbFMwNGhiUVNFd193YlRQakFublFIaHg4aE5fRERMdFdmNE5ZakxsbnNNTHFjYXVnaC0wLWJjZHBScGpzSHVFdS00S3dyTS1RODhKWFFDWEIzN3E4Y0hrZ3VaMjNoOFAxTzVtR0hxWXZNSzVjaEp5cGE1MTBtQ0pNbURJYUoySm5vOTVQUHpOMWJ5TFF1akh1UjNLcldWQXV2NjRsX3VlRjVqQ0p3REZ1T1NsenZCQWUtNTVDYzBRQl9YWU1PRm4zbkRDWm1jb2VsY29qQjZiZjJjM0had25RUnE3VXJKQ2xYSjRWbHRBa3VSaGlZVk1Ea2JyRXVvblc2Q2pJRy1qVFRfZllUdkV0OGhteTFYRmFYWmlQVUZIZ0hmd0RKSDJDeXpKdHZuaWtYbThJUE1rLVk0R2hvRHljaXZNMW9YMi16aEpYNVoteU1F0gHABEFVX3lxTE5MeWQ4WjNaNmNsdzUtbGd6blRPdmkwY2hnajRwOTFjUVYzY3JoYU5paEJTYjl1eUJRbFF1akVJWWNEYUdnNUxUYWRjRHZIaXZVUXRfcThmamJoTS1xSWpzTWV4ZFl2QmkxNEJFaTdQTHZhZDUtVlV2WnVOZEk1ckZ1R0EtWEdidHhUdnVlRGJrTkhDQXQ3QmRld2xLSng1bDY5UDVQU0tBMmxTSEZRc21SUHdQN2Z5QkdJM1c3cm4yTnJxbFh2ZE9SdERneVFTN2dMSS0tblp3eE5heFlJbm9BUWg2SmpjSGIxUEU1LXJmWXd1SVMxS2MxTHlyYy1ud1A2czY2SU9MZFRoYjF6R01uS01QUjVEYUZ0cW9NdUtEX2lPSUVBQU5aZXF3ZHZRLXVCQlVsY2RUNzNabThxanJwMzNGb3Q2bTROUXJNbEdjQk5KLVFiN245VGNlODF3MkstLWxjTWdDZkFHaEgtSjRDaTBGQmVxV1FwY0VUVGwyS1FQRVl0aTY1MkNhRFVpREdkeUpvdjRBQmJJcHFqNk5EWGIzXzRSZVQ3U2JIbkVQMS1qWVVoV092bmwySTNCNzhxUkdXeXA5amw3NnBFN1RSMkNsYUQ0bVhVNmtja0Y3TEFjQ1VJM3RsTnh2MUQ1NkpLUDh2RHNLc2VtMXpoSVFaaE1nU3ROQzRvNUlYOHFBWWJIYUJDNlZDZ2pyRThYLS1qU0lOUGdwMmtSRnVqVHNNNHZBbEhUQy05VzZLd0JCLQ?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxNeVhMeV9JR280OEFaQ2p3QU5LcHN0YndlUjRZVTZmYW9pNUp4STYzY0s0Nlpzam1ZdlNzRW5WVzVSS3V5VjhfQjB4UHp6dktBeUpsLXVTNUI1YlVXbU5qTFFzQXlzSXBQNENyNjRINUlNcXE3cGpmWVNoa1RuTU5lZEdRNjBKSWw2LUNPUXYwaE9DVTVrSnk1VVFzdERQbDhzVmV3Tzk5alpSYVBMbk02YmFDN1loY2N3b3VNcGlVWnliNXlONG85a214WHJJQlF4SERtWndaRVJoY2F0T0VKUlBQSzNUYzdGbGZsZmZlUzBPbFMwNGhiUVNFd193YlRQakFublFIaHg4aE5fRERMdFdmNE5ZakxsbnNNTHFjYXVnaC0wLWJjZHBScGpzSHVFdS00S3dyTS1RODhKWFFDWEIzN3E4Y0hrZ3VaMjNoOFAxTzVtR0hxWXZNSzVjaEp5cGE1MTBtQ0pNbURJYUoySm5vOTVQUHpOMWJ5TFF1akh1UjNLcldWQXV2NjRsX3VlRjVqQ0p3REZ1T1NsenZCQWUtNTVDYzBRQl9YWU1PRm4zbkRDWm1jb2VsY29qQjZiZjJjM0had25RUnE3VXJKQ2xYSjRWbHRBa3VSaGlZVk1Ea2JyRXVvblc2Q2pJRy1qVFRfZllUdkV0OGhteTFYRmFYWmlQVUZIZ0hmd0RKSDJDeXpKdHZuaWtYbThJUE1rLVk0R2hvRHljaXZNMW9YMi16aEpYNVoteU1F0gHABEFVX3lxTE5MeWQ4WjNaNmNsdzUtbGd6blRPdmkwY2hnajRwOTFjUVYzY3JoYU5paEJTYjl1eUJRbFF1akVJWWNEYUdnNUxUYWRjRHZIaXZVUXRfcThmamJoTS1xSWpzTWV4ZFl2QmkxNEJFaTdQTHZhZDUtVlV2WnVOZEk1ckZ1R0EtWEdidHhUdnVlRGJrTkhDQXQ3QmRld2xLSng1bDY5UDVQU0tBMmxTSEZRc21SUHdQN2Z5QkdJM1c3cm4yTnJxbFh2ZE9SdERneVFTN2dMSS0tblp3eE5heFlJbm9BUWg2SmpjSGIxUEU1LXJmWXd1SVMxS2MxTHlyYy1ud1A2czY2SU9MZFRoYjF6R01uS01QUjVEYUZ0cW9NdUtEX2lPSUVBQU5aZXF3ZHZRLXVCQlVsY2RUNzNabThxanJwMzNGb3Q2bTROUXJNbEdjQk5KLVFiN245VGNlODF3MkstLWxjTWdDZkFHaEgtSjRDaTBGQmVxV1FwY0VUVGwyS1FQRVl0aTY1MkNhRFVpREdkeUpvdjRBQmJJcHFqNk5EWGIzXzRSZVQ3U2JIbkVQMS1qWVVoV092bmwySTNCNzhxUkdXeXA5amw3NnBFN1RSMkNsYUQ0bVhVNmtja0Y3TEFjQ1VJM3RsTnh2MUQ1NkpLUDh2RHNLc2VtMXpoSVFaaE1nU3ROQzRvNUlYOHFBWWJIYUJDNlZDZ2pyRThYLS1qU0lOUGdwMmtSRnVqVHNNNHZBbEhUQy05VzZLd0JCLQ?oc=5",
@@ -325,10 +368,9 @@
   "category": "partnership",
   "value": null,
   "currency": null,
-  "title": "السعودية تنتقل من استضافة البيانات إلى تطوير شبكات الذكاء الاصطناعي",
-  "title_pending": true,
+  "title": "Saudi Arabia shifts from data hosting to developing AI networks",
   "title_ar": "السعودية تنتقل من استضافة البيانات إلى تطوير شبكات الذكاء الاصطناعي",
-  "summary": "السعودية تنتقل من استضافة البيانات إلى تطوير شبكات الذكاء الاصطناعي",
+  "summary": "Saudi Arabia is moving from data hosting to developing artificial intelligence networks, according to Arabian Business.",
   "summary_ar": "السعودية تنتقل من استضافة البيانات إلى تطوير شبكات الذكاء الاصطناعي، بحسب أريبيان بزنس.",
   "source_url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxORDFqVnVmcGFMcFRJejVJN1A3M2JjVVJoN1hVdUxMTWNxd0h6aHlJUl8ta1ZxTnZ4bjBXOGJEYnNiM1NpVjdPalE3bFJqU3U3R3JZVVBtRTNkZHNnVFJad1pvbnZBNVBLbWwtV2lsaGtVOGFPRUYwWWdmaGE1bkZRUWlkWDdITDlnN3NhUXZOanpQNGZ6U3FIcU5MUm5oSkN3QUktZWV1RVptSkFqZjVhYzY0N0NJOFNLNXJlNlNwclNyVTRzUnMyY1hjWFpjYUtTS1cwVUxjbkxFT1RpNTBHakw0VXl4bmFXemlodG9EWDgtLWhsR05FbzVMS2UwN05JaFNwVjhfVjVNOTVBbU5LSnZCOXpEX29raVV5NFRzNGl1VFM2Qk4xNzVSdWFzUng0UFpxRUQtYl95N0pnMHUzSG8tUlhtOWNNTHhSM2c4S3ZIdE1yT2tod1cxZEU?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxORDFqVnVmcGFMcFRJejVJN1A3M2JjVVJoN1hVdUxMTWNxd0h6aHlJUl8ta1ZxTnZ4bjBXOGJEYnNiM1NpVjdPalE3bFJqU3U3R3JZVVBtRTNkZHNnVFJad1pvbnZBNVBLbWwtV2lsaGtVOGFPRUYwWWdmaGE1bkZRUWlkWDdITDlnN3NhUXZOanpQNGZ6U3FIcU5MUm5oSkN3QUktZWV1RVptSkFqZjVhYzY0N0NJOFNLNXJlNlNwclNyVTRzUnMyY1hjWFpjYUtTS1cwVUxjbkxFT1RpNTBHakw0VXl4bmFXemlodG9EWDgtLWhsR05FbzVMS2UwN05JaFNwVjhfVjVNOTVBbU5LSnZCOXpEX29raVV5NFRzNGl1VFM2Qk4xNzVSdWFzUng0UFpxRUQtYl95N0pnMHUzSG8tUlhtOWNNTHhSM2c4S3ZIdE1yT2tod1cxZEU?oc=5",
@@ -348,10 +390,9 @@
   "category": "M&A",
   "value": null,
   "currency": null,
-  "title": "السعودية والإمارات تستحوذان على أكثر من 80% من نمو مراكز البيانات بالشرق الأوسط",
-  "title_pending": true,
+  "title": "Saudi Arabia, UAE account for more than 80% of Mideast data center growth",
   "title_ar": "السعودية والإمارات تستحوذان على أكثر من 80% من نمو مراكز البيانات بالشرق الأوسط",
-  "summary": "السعودية والإمارات تستحوذان على أكثر من 80% من نمو مراكز البيانات بالشرق الأوسط",
+  "summary": "Saudi Arabia and the UAE account for more than 80% of data center growth in the Middle East, according to Tawasul News Network.",
   "summary_ar": "السعودية والإمارات تستحوذان على أكثر من 80% من نمو مراكز البيانات بالشرق الأوسط، بحسب شبكة تواصل الإخبارية.",
   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FWXBDZVh4MGp1bjF4aERfUFRjUGZQWmdwaEpCdjBVcHpEa1ktSWdKdWlXZGcyVElHaE1Dakd4RmVLZ09Obng0bloxcnFoVWw4YnRr?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FWXBDZVh4MGp1bjF4aERfUFRjUGZQWmdwaEpCdjBVcHpEa1ktSWdKdWlXZGcyVElHaE1Dakd4RmVLZ09Obng0bloxcnFoVWw4YnRr?oc=5",
@@ -371,10 +412,9 @@
   "category": "partnership",
   "value": null,
   "currency": null,
-  "title": "«أمازون ويب سيرفيسز» لـ«الشرق الأوسط»: منطقة الرياض السحابية تنطلق في ديسمبر بقدرات تدعم الذكاء الاصطناعي",
-  "title_pending": true,
+  "title": "AWS: Riyadh Cloud Region Launches in December With AI Capabilities",
   "title_ar": "«أمازون ويب سيرفيسز» لـ«الشرق الأوسط»: منطقة الرياض السحابية تنطلق في ديسمبر بقدرات تدعم",
-  "summary": "«أمازون ويب سيرفيسز» لـ«الشرق الأوسط»: منطقة الرياض السحابية تنطلق في ديسمبر بقدرات تدعم الذكاء الاصطناعي",
+  "summary": "Amazon Web Services told Asharq Al-Awsat that the Riyadh cloud region will launch in December with capabilities supporting artificial intelligence, according to Asharq Al-Awsat.",
   "summary_ar": "«أمازون ويب سيرفيسز» لـ«الشرق الأوسط»: منطقة الرياض السحابية تنطلق في ديسمبر بقدرات تدعم الذكاء الاصطناعي، بحسب الشرق الأوسط.",
   "source_url": "https://news.google.com/rss/articles/CBMisAVBVV95cUxQN1RuTXcyUjVNdDAxX1FXdU9oM2xoMnRqNG96ZmE3ZTVmcU9neUJ2YVFRY0ZtYjdjck4zOU1MTGpHWXV4SE81U2NIcTYxR0ZZb1pqeTIyQXJmSzJCTmVRSG1Kay1KRWYzcjZETkphd2RMTGZUbjlHdWlhYTN6RkhudlRqYzV4SGdkb3FWS2Q1SkRoc3Y4aHZyc21FYkExMjBMMG9SV2c3eFZEaFEwVGk4LVJKbmNnZ2hZNWFob1pSQ0hvUHRWZmRyLS1QeDZTTDBYM1hiam5RUlh3aG5fQmt1RHpLaExLMklVQTd6dEtpQW00Y2VHWGd1b2V2WEt3RjJTakNtSC1iZ204UFpaaFhjaFpkU1JwMDJ2SXdyTlA4eVZZVDNnSHBHR20wNGdlVGFqLTN3NGNXZDVtcmRldTVGRV9uZ1lxelJib1RKRXlxZ2FWZGVrTXJUX3BJeGVDY1BibjNHNnpkd084QWZ0YVlFazRsSENYTmhFR2dIWjdDdEUwRFprMUhobHYyS1hkT1B4cEVobjU2cXlZb0tGWnFVS2pIMDl5c05EVWN0TDZLYUQwdDNWSUpWdlJjZTN0cXBval9XMVh4SWJFSlNma2F2aVhUTER3cmQza1BHa1RKNW9DY0pQbjJ2OGlXOTh1Nmx1VFlVUEZ5NnRlNzlUVmtYXy1nLUdYQkNCN1NIREZSWmExSllfX2owZ3dpbHBqQVQ0S0NZdkFzaGtWZHN1YUZHTmV0dks4bVdMckJOWHRCX0VxamI4cHNMcDBXYUt5Y1k3bURobm1zTDB1WnhuYVFYMFh6SkxCTjhiYkNCMVRkNmE0UkV5RXlnckZ0VmhoUVhjX2xhcm1kQ3YzYlZ1b3VfcGtacHNINldlRzNPUTBNcEk2RE1FZ2g2M2pneHJKOS02?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMisAVBVV95cUxQN1RuTXcyUjVNdDAxX1FXdU9oM2xoMnRqNG96ZmE3ZTVmcU9neUJ2YVFRY0ZtYjdjck4zOU1MTGpHWXV4SE81U2NIcTYxR0ZZb1pqeTIyQXJmSzJCTmVRSG1Kay1KRWYzcjZETkphd2RMTGZUbjlHdWlhYTN6RkhudlRqYzV4SGdkb3FWS2Q1SkRoc3Y4aHZyc21FYkExMjBMMG9SV2c3eFZEaFEwVGk4LVJKbmNnZ2hZNWFob1pSQ0hvUHRWZmRyLS1QeDZTTDBYM1hiam5RUlh3aG5fQmt1RHpLaExLMklVQTd6dEtpQW00Y2VHWGd1b2V2WEt3RjJTakNtSC1iZ204UFpaaFhjaFpkU1JwMDJ2SXdyTlA4eVZZVDNnSHBHR20wNGdlVGFqLTN3NGNXZDVtcmRldTVGRV9uZ1lxelJib1RKRXlxZ2FWZGVrTXJUX3BJeGVDY1BibjNHNnpkd084QWZ0YVlFazRsSENYTmhFR2dIWjdDdEUwRFprMUhobHYyS1hkT1B4cEVobjU2cXlZb0tGWnFVS2pIMDl5c05EVWN0TDZLYUQwdDNWSUpWdlJjZTN0cXBval9XMVh4SWJFSlNma2F2aVhUTER3cmQza1BHa1RKNW9DY0pQbjJ2OGlXOTh1Nmx1VFlVUEZ5NnRlNzlUVmtYXy1nLUdYQkNCN1NIREZSWmExSllfX2owZ3dpbHBqQVQ0S0NZdkFzaGtWZHN1YUZHTmV0dks4bVdMckJOWHRCX0VxamI4cHNMcDBXYUt5Y1k3bURobm1zTDB1WnhuYVFYMFh6SkxCTjhiYkNCMVRkNmE0UkV5RXlnckZ0VmhoUVhjX2xhcm1kQ3YzYlZ1b3VfcGtacHNINldlRzNPUTBNcEk2RE1FZ2g2M2pneHJKOS02?oc=5",
@@ -394,10 +434,9 @@
   "category": "partnership",
   "value": null,
   "currency": null,
-  "title": "رئيس الأرصاد يبرز دور الذكاء الاصطناعي في تعزيز نظام الإنذار المبكر بالمملكة",
-  "title_pending": true,
+  "title": "Meteorology chief highlights AI role in Kingdom early-warning system",
   "title_ar": "رئيس الأرصاد يبرز دور الذكاء الاصطناعي في تعزيز نظام الإنذار المبكر بالمملكة",
-  "summary": "رئيس الأرصاد يبرز دور الذكاء الاصطناعي في تعزيز نظام الإنذار المبكر بالمملكة",
+  "summary": "The head of meteorology highlighted the role of artificial intelligence in strengthening the Kingdom's early-warning system, according to alsaudi.news.",
   "summary_ar": "رئيس الأرصاد يبرز دور الذكاء الاصطناعي في تعزيز نظام الإنذار المبكر بالمملكة، بحسب https://alsaudi.news/.",
   "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mMU05WGlYM04zaFhxdFdkNWVwN0pkaEtHdlJ1ek5FYTNxakhtdDI5Mm1aREtQZmdOQkhwVGZpbWVrNnBFN1FrSzlnTlZoVzRh?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mMU05WGlYM04zaFhxdFdkNWVwN0pkaEtHdlJ1ek5FYTNxakhtdDI5Mm1aREtQZmdOQkhwVGZpbWVrNnBFN1FrSzlnTlZoVzRh?oc=5",
@@ -417,10 +456,9 @@
   "category": "partnership",
   "value": null,
   "currency": null,
-  "title": "رئيس الأرصاد يسلط الضوء على دور الذكاء الاصطناعي في تقوية الإنذار المبكر بالمملكة",
-  "title_pending": true,
+  "title": "Meteorology chief highlights AI role in strengthening early warning",
   "title_ar": "رئيس الأرصاد يسلط الضوء على دور الذكاء الاصطناعي في تقوية الإنذار المبكر بالمملكة",
-  "summary": "رئيس الأرصاد يسلط الضوء على دور الذكاء الاصطناعي في تقوية الإنذار المبكر بالمملكة",
+  "summary": "The meteorology chief highlighted the role of artificial intelligence in strengthening early warning in the Kingdom, Emirates24 reported.",
   "summary_ar": "رئيس الأرصاد يسلط الضوء على دور الذكاء الاصطناعي في تقوية الإنذار المبكر بالمملكة، بحسب https://emirates24.net/.",
   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTlUtVUlSZlZkdVd5OXNVcUFLUWlwTUxzaE44QzhpcXhHLVFzVTJjUGU2eXljbWNYVWhJLVFXNWR0MkstbGVxX1lLRTE3cTNxZFpj?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTlUtVUlSZlZkdVd5OXNVcUFLUWlwTUxzaE44QzhpcXhHLVFzVTJjUGU2eXljbWNYVWhJLVFXNWR0MkstbGVxX1lLRTE3cTNxZFpj?oc=5",
@@ -440,10 +478,9 @@
   "category": "partnership",
   "value": null,
   "currency": null,
-  "title": "\"سدايا\" تطلق 15 برنامجاً لتدريب الكفاءات الوطنية في مجالات الذكاء الاصطناعي",
-  "title_pending": true,
+  "title": "SDAIA launches 15 programs to train national talent in AI",
   "title_ar": "\"سدايا\" تطلق 15 برنامجاً لتدريب الكفاءات الوطنية في مجالات الذكاء الاصطناعي",
-  "summary": "\"سدايا\" تطلق 15 برنامجاً لتدريب الكفاءات الوطنية في مجالات الذكاء الاصطناعي",
+  "summary": "SDAIA has launched 15 programs to train national talent in the fields of artificial intelligence, according to Qatar News.",
   "summary_ar": "\"سدايا\" تطلق 15 برنامجاً لتدريب الكفاءات الوطنية في مجالات الذكاء الاصطناعي، بحسب أخبار قطر.",
   "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JWE5KSVBCWmM3WWt3WmZSV3VQeEl0b0lHOVduMVBkbDVJV2NwODNBR2lZaWFweDBSYkRHeV92VVozbUU4M3VIaFZsbkZVMUJBMWYtSEJzMlF3akx0TVVLNHQzQnZFcDZOcGZMd0pSZXRzT0twZXlYeUZITQ?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JWE5KSVBCWmM3WWt3WmZSV3VQeEl0b0lHOVduMVBkbDVJV2NwODNBR2lZaWFweDBSYkRHeV92VVozbUU4M3VIaFZsbkZVMUJBMWYtSEJzMlF3akx0TVVLNHQzQnZFcDZOcGZMd0pSZXRzT0twZXlYeUZITQ?oc=5",
@@ -463,10 +500,9 @@
   "category": "partnership",
   "value": null,
   "currency": null,
-  "title": "مركز دبي للأمن الإلكتروني يكشف التزييف العميق بالذكاء الاصطناعي",
-  "title_pending": true,
+  "title": "Dubai Electronic Security Center detects AI deepfake",
   "title_ar": "مركز دبي للأمن الإلكتروني يكشف التزييف العميق بالذكاء الاصطناعي",
-  "summary": "مركز دبي للأمن الإلكتروني يكشف التزييف العميق بالذكاء الاصطناعي",
+  "summary": "The Dubai Electronic Security Center detects deepfake content using artificial intelligence, according to a statement.",
   "summary_ar": "مركز دبي للأمن الإلكتروني يكشف التزييف العميق بالذكاء الاصطناعي، بحسب البيان.",
   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1RXY1SFRjMFBRRTFYQlE2OXloYlFpN0JKNUNpS01QMloweUxfMlpFaUNfZGdKQVQ2TEVVSFY3ZkdWLXNEYjNkVTNtdV9zbUFEWFJNaU1B0gFWQVVfeXFMUDVFdjVIVGMwUFFFMVhCUTY5eWhiUWk3Qko1Q2lLTVAyWjB5TF8yWkVpQ19kZ0pBVDZMRVVIVjdmR1Ytc0RiM2RVM211X3NtQURYUk1pTUE?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1RXY1SFRjMFBRRTFYQlE2OXloYlFpN0JKNUNpS01QMloweUxfMlpFaUNfZGdKQVQ2TEVVSFY3ZkdWLXNEYjNkVTNtdV9zbUFEWFJNaU1B0gFWQVVfeXFMUDVFdjVIVGMwUFFFMVhCUTY5eWhiUWk3Qko1Q2lLTVAyWjB5TF8yWkVpQ19kZ0pBVDZMRVVIVjdmR1Ytc0RiM2RVM211X3NtQURYUk1pTUE?oc=5",
@@ -486,10 +522,9 @@
   "category": "partnership",
   "value": null,
   "currency": null,
-  "title": "«أمازون ويب سيرفيسز» تعجز عن استعادة الوصول لمنشأة حوسبة في البحرين",
-  "title_pending": true,
+  "title": "Amazon Web Services Unable to Restore Access to Bahrain Computing Facility",
   "title_ar": "«أمازون ويب سيرفيسز» تعجز عن استعادة الوصول لمنشأة حوسبة في البحرين",
-  "summary": "«أمازون ويب سيرفيسز» تعجز عن استعادة الوصول لمنشأة حوسبة في البحرين",
+  "summary": "Amazon Web Services is unable to restore access to a computing facility in Bahrain, according to Asharq Al-Awsat.",
   "summary_ar": "«أمازون ويب سيرفيسز» تعجز عن استعادة الوصول لمنشأة حوسبة في البحرين، بحسب الشرق الأوسط.",
   "source_url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxPeVdJRTJlT2F6UDVqaHBLOUllNGpDOUJSajhOWEQ3TTF3bXpMUjBnbXUxdXhBT1lFcldEVU1UZ1oza0s5THdzeTV1c1NzZ3RjV3RjLXZZX2ZzR1lHbFpicXlGVXlISzMwbVMwY2ZmbXpMZmp4WVpSM19Lb2RIWkhjRC1PNkNHalVxcW9UV1E2bkJ3UGV1d2hPQ2cxWC1ENWlOTDZDR3ZUVWdRb0N2d0FXXzN2UDVBUEd1UEgtWHV6azBUUGRVc0EyaWcxV013NU45dUdkd2U5TnphUHJ5eVhMZ0RpUGYxQVAyNFYwS3FCb3RVMlM1S1dOdWUwQm9XZTZPcklncVBLZUQtQTdFTWtVZmwzamdKZlMyeENXY09WT2FpemtwOU8tSXE3UmdFVVpFbTJjdE1jUTlyRkxPdm00VFFSYXdBX3RtbVNmMmFCSWpFTGZlSDNNSFZwaXRSUG1WNzFNb3NZNFlqNG1MUVBycXh6ZFhNQjB1RzhSaGhySi0taXhWTkwxbTd5MG00ZXRrTmJZTXBlaTYwV1pKbjF6ZVUwdUhHcjY5aUgxM2RlNmFPa2x5bDZzMWtHWUZHX0dvOWpiUHN2MS1Ha3hVMzhIWTVnRlViQU1YNGxYaThTTWVHR3N6OWtDczBsa0lJMlM0VGxzaFZpZkh5YUhYZlFyUmpnZzl2MDJ6Tk1jREhJc2ZDMHZaSlBaSHdMZ0NJdF94ODJyQ2gwOXZYMGpNRW4zYzNUdFQ3Sk10UTBkcDk3ZkNuSGpuMGVYVWN5NExhVDA?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMizwRBVV95cUxPeVdJRTJlT2F6UDVqaHBLOUllNGpDOUJSajhOWEQ3TTF3bXpMUjBnbXUxdXhBT1lFcldEVU1UZ1oza0s5THdzeTV1c1NzZ3RjV3RjLXZZX2ZzR1lHbFpicXlGVXlISzMwbVMwY2ZmbXpMZmp4WVpSM19Lb2RIWkhjRC1PNkNHalVxcW9UV1E2bkJ3UGV1d2hPQ2cxWC1ENWlOTDZDR3ZUVWdRb0N2d0FXXzN2UDVBUEd1UEgtWHV6azBUUGRVc0EyaWcxV013NU45dUdkd2U5TnphUHJ5eVhMZ0RpUGYxQVAyNFYwS3FCb3RVMlM1S1dOdWUwQm9XZTZPcklncVBLZUQtQTdFTWtVZmwzamdKZlMyeENXY09WT2FpemtwOU8tSXE3UmdFVVpFbTJjdE1jUTlyRkxPdm00VFFSYXdBX3RtbVNmMmFCSWpFTGZlSDNNSFZwaXRSUG1WNzFNb3NZNFlqNG1MUVBycXh6ZFhNQjB1RzhSaGhySi0taXhWTkwxbTd5MG00ZXRrTmJZTXBlaTYwV1pKbjF6ZVUwdUhHcjY5aUgxM2RlNmFPa2x5bDZzMWtHWUZHX0dvOWpiUHN2MS1Ha3hVMzhIWTVnRlViQU1YNGxYaThTTWVHR3N6OWtDczBsa0lJMlM0VGxzaFZpZkh5YUhYZlFyUmpnZzl2MDJ6Tk1jREhJc2ZDMHZaSlBaSHdMZ0NJdF94ODJyQ2gwOXZYMGpNRW4zYzNUdFQ3Sk10UTBkcDk3ZkNuSGpuMGVYVWN5NExhVDA?oc=5",
@@ -509,15 +544,36 @@
   "category": "partnership",
   "value": null,
   "currency": null,
-  "title": "«دِل تكنولوجيز» تتعاون مع «تحالف» لتطوير حلول الذكاء الاصطناعي للمدن الذكية في الإمارات",
-  "title_pending": true,
+  "title": "Dell Technologies partners with Tahaluf on AI for UAE smart cities",
   "title_ar": "«دِل تكنولوجيز» تتعاون مع «تحالف» لتطوير حلول الذكاء الاصطناعي للمدن الذكية في الإمارات",
-  "summary": "«دِل تكنولوجيز» تتعاون مع «تحالف» لتطوير حلول الذكاء الاصطناعي للمدن الذكية في الإمارات",
+  "summary": "Dell Technologies is partnering with Tahaluf to develop artificial intelligence solutions for smart cities in the UAE, according to Fintech Gate.",
   "summary_ar": "«دِل تكنولوجيز» تتعاون مع «تحالف» لتطوير حلول الذكاء الاصطناعي للمدن الذكية في الإمارات، بحسب بوابة التكنولوجيا المالية.",
   "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0wWVFUN2xMTTdRNnQ3QnRCelpGbHhoY2VJazNCZ0FEQ2w2Qm50ckNTU0xMTWI5ZUppeUI2bUF0OW15dXQz?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0wWVFUN2xMTTdRNnQ3QnRCelpGbHhoY2VJazNCZ0FEQ2w2Qm50ckNTU0xMTWI5ZUppeUI2bUF0OW15dXQz?oc=5",
   "source_name": "بوابة التكنولوجيا المالية",
   "source_domain": "fintechgate.net",
+  "status": "unreviewed",
+  "auto": true,
+  "lang_source": "ar"
+ },
+ {
+  "id": "998095bc44",
+  "slug": "2026-10-13-ar-998095bc44",
+  "date": "2026-10-13",
+  "date_precision": "day",
+  "country": "Saudi Arabia",
+  "parties": [],
+  "category": "M&A",
+  "value": null,
+  "currency": null,
+  "title": "Saudi Arabia, UAE account for more than 80% of Mideast data center growth",
+  "title_ar": "السعودية والإمارات تستحوذان على أكثر من 80% من نمو مراكز البيانات بالشرق الأوسط",
+  "summary": "Saudi Arabia and the UAE account for more than 80% of data center growth in the Middle East, according to Mubasher.",
+  "summary_ar": "السعودية والإمارات تستحوذان على أكثر من 80% من نمو مراكز البيانات بالشرق الأوسط، بحسب معلومات مباشر.",
+  "source_url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxQMnowTjhnQUF3LVV5akhSbzMxS1FGdU9KS08yOURTUTBUaTBBM0VKb0wycEprUWRhRmZDTnVBTjhrUjJXamZka0pHamFhb1RvX1BkRkRqNmtMYXd0R2M5dGRHZXRIX3ROWGJpSVJaeVlNYzFVaUdXYk5Sb3hyRFlIaU83NFBaZXgzNEdocFNGLWZfUXZIMUNOYTZ3ekYyX3RrUUZDT2o5cmdQN2NoSkRxaFFVY3U3NkhiTGw2ZWVpVlI1eW1GTmVlNkFNUFZVM0VfV1pJTWRCZXk2LWNTQWJXSUZ2T1oyelJHX1FFUVJ5eVJqUllGNFRBTVBqa195LUpkc0JFbl9aY0ZvX09kSlAtbGJjM0c2RkZxSVd3M1dDaWd2M1N0Y2xqeDRKbkxLXzhybGM2T0RIemhYMkhvTUZOb0I3VWZtaHZPV19ENElaeHR1YWhEUmQ1dnowWWExWW50LW05eVB0cjh3SzZrRWlVSlBDLWlwMWZGLXpvQzRmT2VHSE1DdkxtZXU5M3FjeGxhUG8yYkNES1FVMEduTkY4Z0RuM1NzSlc2bjV5aFdiSnJKY0F6OHBtNHc5azJFYjlXa1lHSlJKQTNhVFI4UDczQUl4NFZSUzZDdkx2Z1RieExQWDZqRWE2aFRmbk5CTnlXTGVOM2M3Z1hvRkxtSzg1bkdmWW8wM0RIRUJtcEd6YlF6UFd1TlRVVW5aSnpsOTZsU1Q3Z3M5ck81cERtR1F5M1hUVXFPOTJ2cFJyYmJxWTljREFaZERvcjRTMmpYZFVFRUMtLWNMd29KVWIwM05KdkZHaHU?oc=5",
+  "source_url_ar": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxQMnowTjhnQUF3LVV5akhSbzMxS1FGdU9KS08yOURTUTBUaTBBM0VKb0wycEprUWRhRmZDTnVBTjhrUjJXamZka0pHamFhb1RvX1BkRkRqNmtMYXd0R2M5dGRHZXRIX3ROWGJpSVJaeVlNYzFVaUdXYk5Sb3hyRFlIaU83NFBaZXgzNEdocFNGLWZfUXZIMUNOYTZ3ekYyX3RrUUZDT2o5cmdQN2NoSkRxaFFVY3U3NkhiTGw2ZWVpVlI1eW1GTmVlNkFNUFZVM0VfV1pJTWRCZXk2LWNTQWJXSUZ2T1oyelJHX1FFUVJ5eVJqUllGNFRBTVBqa195LUpkc0JFbl9aY0ZvX09kSlAtbGJjM0c2RkZxSVd3M1dDaWd2M1N0Y2xqeDRKbkxLXzhybGM2T0RIemhYMkhvTUZOb0I3VWZtaHZPV19ENElaeHR1YWhEUmQ1dnowWWExWW50LW05eVB0cjh3SzZrRWlVSlBDLWlwMWZGLXpvQzRmT2VHSE1DdkxtZXU5M3FjeGxhUG8yYkNES1FVMEduTkY4Z0RuM1NzSlc2bjV5aFdiSnJKY0F6OHBtNHc5azJFYjlXa1lHSlJKQTNhVFI4UDczQUl4NFZSUzZDdkx2Z1RieExQWDZqRWE2aFRmbk5CTnlXTGVOM2M3Z1hvRkxtSzg1bkdmWW8wM0RIRUJtcEd6YlF6UFd1TlRVVW5aSnpsOTZsU1Q3Z3M5ck81cERtR1F5M1hUVXFPOTJ2cFJyYmJxWTljREFaZERvcjRTMmpYZFVFRUMtLWNMd29KVWIwM05KdkZHaHU?oc=5",
+  "source_name": "معلومات مباشر",
+  "source_domain": "mubasher.info",
   "status": "unreviewed",
   "auto": true,
   "lang_source": "ar"
@@ -538,7 +594,10 @@
   "source_name": "entARABI",
   "source_domain": "entarabi.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تدخل هيوماين تطبيقات الذكاء الاصطناعي للمؤسسات عبر شراكة استراتيجية مع «Napster»",
+  "summary_ar": "تدخل هيوماين تطبيقات الذكاء الاصطناعي للمؤسسات عبر شراكة استراتيجية مع «Napster»، وفق ما أوردته «entARABI».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "12992a670a",
@@ -578,7 +637,10 @@
   "source_name": "بوابة التكنولوجيا المالية",
   "source_domain": "fintechgate.net",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تتعاون «نابستر» وهيوماين لتوفير ذكاء اصطناعي عربي المنشأ للقطاعين العام والخاص",
+  "summary_ar": "تتعاون «نابستر» وهيوماين لتوفير ذكاء اصطناعي عربي المنشأ لمؤسسات القطاعين العام والخاص في منطقة الشرق الأوسط وشمال أفريقيا، وفق ما أوردته بوابة التكنولوجيا المالية.",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "2b2b999fb5",
@@ -596,7 +658,10 @@
   "source_name": "Arab News",
   "source_domain": "arabnews.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تستطيع السعودية تزويد مراكز بيانات الذكاء الاصطناعي بالطاقة بوتيرة أسرع من أميركا",
+  "summary_ar": "أفاد الرئيس التنفيذي لـ«سيمنز إنرجي» أن السعودية تستطيع تزويد مراكز بيانات الذكاء الاصطناعي بالطاقة بوتيرة أسرع من الولايات المتحدة، بحسب «عرب نيوز».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "c54c22c799",
@@ -614,7 +679,10 @@
   "source_name": "Moomoo",
   "source_domain": "moomoo.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "يحث مستشار مالي على استثمار 350 ألف دولار في مركز بيانات بالإمارات",
+  "summary_ar": "أوردت «Moomoo» أن مستشاراً مالياً يريد من عميله استثمار 350 ألف دولار في مركز بيانات بالإمارات، بعدما بدت نشرة الطرح مقنعة، فيما يتساءل المستثمر عمّا إذا كان الاستثمار محفوفاً بالمخاطر.",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "97ffaf7243",
@@ -632,7 +700,10 @@
   "source_name": "TahawulTech.com",
   "source_domain": "tahawultech.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تؤسس «Optro» مركزاً في الإمارات لدعم حوكمة الذكاء الاصطناعي الوكيل",
+  "summary_ar": "تؤسس «Optro» مركزاً في الإمارات لدعم حوكمة الذكاء الاصطناعي الوكيل، وفق ما أوردته «TahawulTech.com».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "17844bffc5",
@@ -650,7 +721,10 @@
   "source_name": "www.wam.ae",
   "source_domain": "wam.ae",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "يطوّر 32 خبيراً إماراتياً مشاريع ذكاء اصطناعي لدعم أولويات الإمارات الوطنية",
+  "summary_ar": "يطوّر 32 خبيراً إماراتياً مشاريع ذكاء اصطناعي لدعم الأولويات الوطنية للإمارات، بحسب ما نشره وكالة أنباء الإمارات (وام).",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "43789db568",
@@ -668,7 +742,10 @@
   "source_name": "Khaleej Times",
   "source_domain": "khaleejtimes.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تخطط أبوظبي لاستثمار 250 مليار درهم في الطاقة مع تنامي طلب الذكاء الاصطناعي على الكهرباء",
+  "summary_ar": "تخطط أبوظبي لاستثمار 250 مليار درهم في الطاقة، في وقت يدفع طلب الذكاء الاصطناعي احتياجات الكهرباء، بحسب ما أوردته «خليج تايمز».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "3e938f2049",
@@ -686,7 +763,10 @@
   "source_name": "The Peninsula Qatar",
   "source_domain": "thepeninsulaqatar.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تؤكد قطر أهمية التحول الرقمي والذكاء الاصطناعي في التنمية الاقتصادية والاجتماعية",
+  "summary_ar": "أكدت قطر أهمية التحول الرقمي والذكاء الاصطناعي في التنمية الاقتصادية والاجتماعية، وفق ما نقلته صحيفة «ذا بينينسولا».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "a6750fda36",
@@ -704,7 +784,10 @@
   "source_name": "News of Bahrain",
   "source_domain": "newsofbahrain.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تنقل قطر طموحات الذكاء الاصطناعي إلى الأمم المتحدة",
+  "summary_ar": "تنقل قطر طموحاتها في الذكاء الاصطناعي إلى الأمم المتحدة، وفق ما أوردته «نيوز أوف البحرين».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "888379abbf",
@@ -722,7 +805,10 @@
   "source_name": "وردنا",
   "source_domain": "waradana.com",
   "status": "unreviewed",
-  "auto": true
+  "auto": true,
+  "title_ar": "تتصدّر الإمارات وسنغافورة الدول الأكثر تبنياً للذكاء الاصطناعي في 2026",
+  "summary_ar": "أوردت وردنا أن الإمارات وسنغافورة تتصدّران الدول الأكثر تبنياً للذكاء الاصطناعي في 2026.",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "e23852bd8b",
@@ -734,10 +820,9 @@
   "category": "gov program",
   "value": null,
   "currency": null,
-  "title": "هيوماين تدخل تطبيقات الذكاء الاصطناعي المؤسسي عبر شراكة استراتيجية مع نابستر",
-  "title_pending": true,
+  "title": "HUMAIN Enters Enterprise AI Apps via Strategic Napster Partnership",
   "title_ar": "هيوماين تدخل تطبيقات الذكاء الاصطناعي المؤسسي عبر شراكة استراتيجية مع نابستر",
-  "summary": "هيوماين تدخل تطبيقات الذكاء الاصطناعي المؤسسي عبر شراكة استراتيجية مع نابستر",
+  "summary": "HUMAIN is entering enterprise artificial intelligence applications through a strategic partnership with Napster, according to entARABI.",
   "summary_ar": "هيوماين تدخل تطبيقات الذكاء الاصطناعي المؤسسي عبر شراكة استراتيجية مع نابستر، بحسب entARABI.",
   "source_url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQZzdUTzVDYnFua2Z1WHdORE1oUkRkNHU1bVQ4VTF3N2FPekVLU2ZPLUJMSkFleFZ5UmdqQ0dRU1NEZUVQMGhLazhXQUNVcUJjQmlZbjBOVmRhSGZCTTZMaEJkZVNJN3hTNVRlMktYYU5UTjAwZjd2djZsM3kyYTNKTFdKNXE4QmFIYVBsdGlsMVdPWk5XQjV5bk1BdnlhSGF5bEdsS28yR3lVdXpxa0NRbkJUWVo1STlMS3VtZVU1dFFXM05JM1RVR3RuUU1Za1ZzRFBqVkVqSzZGSUZMck9iaXFBbVktbG9sUDAyYU5jY1luc2p5SUVxSGhmNnUwVnNvVjlJODVzLUxqcnNNMmk5d0Rha0p0cm1McEh3R3M3akNNb2xURE9YUGJGNThmQWVqdU9hb2RuLUEwLUN1S1lNRzVMejg0RDhjYVE?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQZzdUTzVDYnFua2Z1WHdORE1oUkRkNHU1bVQ4VTF3N2FPekVLU2ZPLUJMSkFleFZ5UmdqQ0dRU1NEZUVQMGhLazhXQUNVcUJjQmlZbjBOVmRhSGZCTTZMaEJkZVNJN3hTNVRlMktYYU5UTjAwZjd2djZsM3kyYTNKTFdKNXE4QmFIYVBsdGlsMVdPWk5XQjV5bk1BdnlhSGF5bEdsS28yR3lVdXpxa0NRbkJUWVo1STlMS3VtZVU1dFFXM05JM1RVR3RuUU1Za1ZzRFBqVkVqSzZGSUZMck9iaXFBbVktbG9sUDAyYU5jY1luc2p5SUVxSGhmNnUwVnNvVjlJODVzLUxqcnNNMmk5d0Rha0p0cm1McEh3R3M3akNNb2xURE9YUGJGNThmQWVqdU9hb2RuLUEwLUN1S1lNRzVMejg0RDhjYVE?oc=5",
@@ -757,10 +842,9 @@
   "category": "partnership",
   "value": null,
   "currency": null,
-  "title": "سيمنز للطاقة: السعودية قادرة على توفير كهرباء مراكز بيانات الذكاء الاصطناعي أسرع من أمريكا",
-  "title_pending": true,
+  "title": "Siemens Energy: Saudi Arabia can power AI data centers faster than America",
   "title_ar": "سيمنز للطاقة: السعودية قادرة على توفير كهرباء مراكز بيانات الذكاء الاصطناعي أسرع من أمريكا",
-  "summary": "سيمنز للطاقة: السعودية قادرة على توفير كهرباء مراكز بيانات الذكاء الاصطناعي أسرع من أمريكا",
+  "summary": "Siemens Energy said Saudi Arabia can provide electricity for AI data centers faster than America, according to mz-mz.net.",
   "summary_ar": "سيمنز للطاقة: السعودية قادرة على توفير كهرباء مراكز بيانات الذكاء الاصطناعي أسرع من أمريكا، بحسب mz-mz.net.",
   "source_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93MDRCeUpyREF5S2hSX2N0ME8zaG1ILVNab0FoMGZHZzc4WlpCZm80NmZmMndxODZCUzhVRDhmVQ?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93MDRCeUpyREF5S2hSX2N0ME8zaG1ILVNab0FoMGZHZzc4WlpCZm80NmZmMndxODZCUzhVRDhmVQ?oc=5",
@@ -780,10 +864,9 @@
   "category": "partnership",
   "value": null,
   "currency": null,
-  "title": "«إس آند بي جلوبال»: الإمارات تتفوق على دول المنطقة في جذب شركات الحوسبة العملاقة",
-  "title_pending": true,
+  "title": "S&P Global: UAE surpasses region in attracting computing giants",
   "title_ar": "«إس آند بي جلوبال»: الإمارات تتفوق على دول المنطقة في جذب شركات الحوسبة العملاقة",
-  "summary": "«إس آند بي جلوبال»: الإمارات تتفوق على دول المنطقة في جذب شركات الحوسبة العملاقة",
+  "summary": "The UAE surpasses countries in the region in attracting giant computing companies, S&P Global said, according to the statement.",
   "summary_ar": "«إس آند بي جلوبال»: الإمارات تتفوق على دول المنطقة في جذب شركات الحوسبة العملاقة، بحسب البيان.",
   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRNFhmVzBxdEZBVW4xUndfQUt4QkxZUXE2SENkTWVtMlQ0Tms3V29aUzZxRkJTWEZBa1EzUFk4amEwTWt0ejdZdnU4NUFodExlWTY0adIBVEFVX3lxTFBRNFhmVzBxdEZBVW4xUndfQUt4QkxZUXE2SENkTWVtMlQ0Tms3V29aUzZxRkJTWEZBa1EzUFk4amEwTWt0ejdZdnU4NUFodExlWTY0aQ?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRNFhmVzBxdEZBVW4xUndfQUt4QkxZUXE2SENkTWVtMlQ0Tms3V29aUzZxRkJTWEZBa1EzUFk4amEwTWt0ejdZdnU4NUFodExlWTY0adIBVEFVX3lxTFBRNFhmVzBxdEZBVW4xUndfQUt4QkxZUXE2SENkTWVtMlQ0Tms3V29aUzZxRkJTWEZBa1EzUFk4amEwTWt0ejdZdnU4NUFodExlWTY0aQ?oc=5",
@@ -803,10 +886,9 @@
   "category": "partnership",
   "value": null,
   "currency": null,
-  "title": "من الدمام.. \"سيمنز للطاقة\" تراهن على كهرباء الذكاء الاصطناعي السعودية",
-  "title_pending": true,
+  "title": "Siemens Energy bets on Saudi AI electricity from Dammam",
   "title_ar": "من الدمام.. \"سيمنز للطاقة\" تراهن على كهرباء الذكاء الاصطناعي السعودية",
-  "summary": "من الدمام.. \"سيمنز للطاقة\" تراهن على كهرباء الذكاء الاصطناعي السعودية",
+  "summary": "From Dammam, Siemens Energy is betting on Saudi artificial intelligence electricity, according to Asharq Bloomberg.",
   "summary_ar": "من الدمام.. \"سيمنز للطاقة\" تراهن على كهرباء الذكاء الاصطناعي السعودية، بحسب الشرق بلومبرغ.",
   "source_url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPUE5yaXpJSnVBWWExb3VHb2V5blFqYVVIcjFMREpiMlBzVXhIVjRxN0w4OGxEbEtVWFpic0NQLVVUUGg3cTRyRDVBMlpqMGRIUHpfYURGOHJlcmJsRFQwRHNJLS03UTZXNmkxMThDaW5sY1dkcEljbm4yX0dUTlVQS0xQVVRfX1l0ZXhlWU9GbmxwbndMZzJVWkVONXRhejNubjc3elRsU0pKUVMzRUw2QUljcVBhdTBuRWtGNDB0RER6cmF6WWlubC1oQ0FZX29MZmE5RG9oWV9tMURIUkZ4SlFLbU9FQUhtZXViM192bVgzR0J0M0g1TnF2Q0xrUUVWQnpFNy1PWkx6WEFlbU1JcHVWcENFbktsTzczM2FVYWhwcHJRTU16MWRXRGx3d0dGaURiMU5pRllUX1lfRHU4U0h3QnZubHY4UHZ2WjNhaEV1Q2ItUENOcjhUZ0xZeGJxc0dFXzhaZnN3M2NSbVZTenRHclJfRVZKWXBmelo5cUljcFRFYTZreTZuTnlieFZhUk1zOWZENl9JRnJRMHZRVklIZTZaWHFsYVVXb2RiM1VFWTlkNFdKRnFaRVN5MG5jN3RJQzBXYVdkX0ppdkRmMVZGQWdPOWRmbFJaNUlB?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPUE5yaXpJSnVBWWExb3VHb2V5blFqYVVIcjFMREpiMlBzVXhIVjRxN0w4OGxEbEtVWFpic0NQLVVUUGg3cTRyRDVBMlpqMGRIUHpfYURGOHJlcmJsRFQwRHNJLS03UTZXNmkxMThDaW5sY1dkcEljbm4yX0dUTlVQS0xQVVRfX1l0ZXhlWU9GbmxwbndMZzJVWkVONXRhejNubjc3elRsU0pKUVMzRUw2QUljcVBhdTBuRWtGNDB0RER6cmF6WWlubC1oQ0FZX29MZmE5RG9oWV9tMURIUkZ4SlFLbU9FQUhtZXViM192bVgzR0J0M0g1TnF2Q0xrUUVWQnpFNy1PWkx6WEFlbU1JcHVWcENFbktsTzczM2FVYWhwcHJRTU16MWRXRGx3d0dGaURiMU5pRllUX1lfRHU4U0h3QnZubHY4UHZ2WjNhaEV1Q2ItUENOcjhUZ0xZeGJxc0dFXzhaZnN3M2NSbVZTenRHclJfRVZKWXBmelo5cUljcFRFYTZreTZuTnlieFZhUk1zOWZENl9JRnJRMHZRVklIZTZaWHFsYVVXb2RiM1VFWTlkNFdKRnFaRVN5MG5jN3RJQzBXYVdkX0ppdkRmMVZGQWdPOWRmbFJaNUlB?oc=5",
@@ -826,10 +908,9 @@
   "category": "data center",
   "value": null,
   "currency": null,
-  "title": "«إس آند بي»: السعودية والإمارات تقودان نمو سوق مراكز البيانات خليجياً",
-  "title_pending": true,
+  "title": "S&P: Saudi Arabia, UAE Lead Gulf Data Center Market Growth",
   "title_ar": "«إس آند بي»: السعودية والإمارات تقودان نمو سوق مراكز البيانات خليجياً",
-  "summary": "«إس آند بي»: السعودية والإمارات تقودان نمو سوق مراكز البيانات خليجياً",
+  "summary": "S&P said Saudi Arabia and the UAE are leading growth in the Gulf data center market, according to Erem Business.",
   "summary_ar": "«إس آند بي»: السعودية والإمارات تقودان نمو سوق مراكز البيانات خليجياً، بحسب إرم بزنس.",
   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yWkdyNkNjLS00bEwwdG81cjRUNndUVzBIUDRiX2dfdEU5cHVQbFVYWV80T0lTSVBLTWktWl9wVWQzTkxqSVVTY0ZpYVMyN2ZOMVI3dGJfOTJ6elU?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yWkdyNkNjLS00bEwwdG81cjRUNndUVzBIUDRiX2dfdEU5cHVQbFVYWV80T0lTSVBLTWktWl9wVWQzTkxqSVVTY0ZpYVMyN2ZOMVI3dGJfOTJ6elU?oc=5",
@@ -849,10 +930,9 @@
   "category": "partnership",
   "value": null,
   "currency": null,
-  "title": "قطر تؤكد أن التحول الرقمي والذكاء الاصطناعي أصبحا من العوامل الأساسية في تعزيز التنمية الاقتصادية والاجتماعية",
-  "title_pending": true,
+  "title": "Qatar says digital transformation, AI now key to development",
   "title_ar": "قطر تؤكد أن التحول الرقمي والذكاء الاصطناعي أصبحا من العوامل الأساسية في تعزيز التنمية",
-  "summary": "قطر تؤكد أن التحول الرقمي والذكاء الاصطناعي أصبحا من العوامل الأساسية في تعزيز التنمية الاقتصادية والاجتماعية",
+  "summary": "Qatar affirmed that digital transformation and artificial intelligence have become fundamental factors in promoting economic and social development, according to Hal Al Khaleej.",
   "summary_ar": "قطر تؤكد أن التحول الرقمي والذكاء الاصطناعي أصبحا من العوامل الأساسية في تعزيز التنمية الاقتصادية والاجتماعية، بحسب حال الخليج.",
   "source_url": "https://news.google.com/rss/articles/CBMi2AZBVV95cUxPY3pHWEpjMnhuYS1qUUFwQUNmcHlNeXlpbEMxd216U0VtU0VFenpWcnd5Q0VIbm03TWdqY2pMMVlSck5XZ0xpWUY4NmVRQlJWaC1aWmlSZFhneC13eEp2SDB3VmN5LXcxYUpTNW9iMmh4SE1NVW9iRjNCX3Q2dld0UGJSY2ZpcFcwSUJrUHgzTXh4RmRncUJsRHp0WTFDcXYwV1p6VjJFcEZ5WmptTnF4RUhYcFcwZTNmUHNwLVZqdjByTmVCOEtCVGdSTlR4VFZWRm5HS0FJM2JBa3hTSkx5Y1BNUHhjZ0Rnby1hOW9OdlNuRFhkT2pjQnNCMEJLQXdYVkJsMWZDUEZOd0R5MndkUlIxVXVudkNHUU1QakhHSno2c0N3dVM3NUVYOFgwLUNueGdYMnMtbTZzSW0zc0ZqOFBLTGkteTJncmYxVGRzR3hvX3R1LXpwZmJ3MjNPQVRkcEtLUjcxVVo5aTVIcklMNEd0eUJST2ExbjJpbjhnX0pVVFN0d0pTMDAzb01hR2pLSnZUUl80WFIta0cxOVJyZ1JCblVZZnc1X19QVXBfZDltcHo5QVVncUJtMEVRTWp0SGQ2MkJ1U25mMW53UC1qVUNROVNpejRrekM1OVFhamZFTWpVdFltcklfRnNLVVVwRjRhYkx6NmIxblZ5amZXZktsOXkxUWRuWXVVVkpWLTlYMFNDVmp2R2NvZldobFFQZmZEbElRNGwzeE9fX2RCeS1zSUg4NVFHZUhDdGNSR0VIbHpOUUFOOWNwbWo3RER6R2tReGxkMGJUSzJ0VGk3aFRuY09CdTIzanRmYVZBUG9xX0c2LUJ3NlozZFlPV3FPSW5oZF9sdTM5Q2F1Z3JhSUpzS2x4cU5KYzVvYjhCMHBydGFsMFctcC1HU2NYMkl1WXcyc2J3NFY4TEVNQXcteUkxYzJzbFhvdWNRUjFvdzYyY0phaXVVWVc0MXFmNTViVWRQMzdvWkV2OVpPVVRNRXV6NHRTSVk5YnRmZjVKVHNDMGtWbHBMTUJ2ZWdhb2ZwNko2Q3NKbERKM05lbGZhQ1NpVU8xdGN3cGJUcTRwb0EtTVhjUmoxNE45OE51TU92aWVnb1VBc0hoVmRVeHl1ZVB3aF9FeTVR0gFSQVVfeXFMT3RFd2dQTjVmb1VYSmZQSDhSV2l3bDBPUGVMTHFrM2R0ZElyQ0w4M1NoV3k3VWNNenZlLUc2TFNpNWtmbUdQbmlGZUdyWWNVV2tTZw?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMi2AZBVV95cUxPY3pHWEpjMnhuYS1qUUFwQUNmcHlNeXlpbEMxd216U0VtU0VFenpWcnd5Q0VIbm03TWdqY2pMMVlSck5XZ0xpWUY4NmVRQlJWaC1aWmlSZFhneC13eEp2SDB3VmN5LXcxYUpTNW9iMmh4SE1NVW9iRjNCX3Q2dld0UGJSY2ZpcFcwSUJrUHgzTXh4RmRncUJsRHp0WTFDcXYwV1p6VjJFcEZ5WmptTnF4RUhYcFcwZTNmUHNwLVZqdjByTmVCOEtCVGdSTlR4VFZWRm5HS0FJM2JBa3hTSkx5Y1BNUHhjZ0Rnby1hOW9OdlNuRFhkT2pjQnNCMEJLQXdYVkJsMWZDUEZOd0R5MndkUlIxVXVudkNHUU1QakhHSno2c0N3dVM3NUVYOFgwLUNueGdYMnMtbTZzSW0zc0ZqOFBLTGkteTJncmYxVGRzR3hvX3R1LXpwZmJ3MjNPQVRkcEtLUjcxVVo5aTVIcklMNEd0eUJST2ExbjJpbjhnX0pVVFN0d0pTMDAzb01hR2pLSnZUUl80WFIta0cxOVJyZ1JCblVZZnc1X19QVXBfZDltcHo5QVVncUJtMEVRTWp0SGQ2MkJ1U25mMW53UC1qVUNROVNpejRrekM1OVFhamZFTWpVdFltcklfRnNLVVVwRjRhYkx6NmIxblZ5amZXZktsOXkxUWRuWXVVVkpWLTlYMFNDVmp2R2NvZldobFFQZmZEbElRNGwzeE9fX2RCeS1zSUg4NVFHZUhDdGNSR0VIbHpOUUFOOWNwbWo3RER6R2tReGxkMGJUSzJ0VGk3aFRuY09CdTIzanRmYVZBUG9xX0c2LUJ3NlozZFlPV3FPSW5oZF9sdTM5Q2F1Z3JhSUpzS2x4cU5KYzVvYjhCMHBydGFsMFctcC1HU2NYMkl1WXcyc2J3NFY4TEVNQXcteUkxYzJzbFhvdWNRUjFvdzYyY0phaXVVWVc0MXFmNTViVWRQMzdvWkV2OVpPVVRNRXV6NHRTSVk5YnRmZjVKVHNDMGtWbHBMTUJ2ZWdhb2ZwNko2Q3NKbERKM05lbGZhQ1NpVU8xdGN3cGJUcTRwb0EtTVhjUmoxNE45OE51TU92aWVnb1VBc0hoVmRVeHl1ZVB3aF9FeTVR0gFSQVVfeXFMT3RFd2dQTjVmb1VYSmZQSDhSV2l3bDBPUGVMTHFrM2R0ZElyQ0w4M1NoV3k3VWNNenZlLUc2TFNpNWtmbUdQbmlGZUdyWWNVV2tTZw?oc=5",
@@ -872,10 +952,9 @@
   "category": "partnership",
   "value": null,
   "currency": null,
-  "title": "دبي تُطلق مسابقة عالمية لوكلاء الذكاء الاصطناعي بجوائز تتجاوز 680 ألف دولار",
-  "title_pending": true,
+  "title": "Dubai launches global AI agents contest with prizes topping $680,000",
   "title_ar": "دبي تُطلق مسابقة عالمية لوكلاء الذكاء الاصطناعي بجوائز تتجاوز 680 ألف دولار",
-  "summary": "دبي تُطلق مسابقة عالمية لوكلاء الذكاء الاصطناعي بجوائز تتجاوز 680 ألف دولار",
+  "summary": "Dubai has launched a global competition for AI agents, with prizes exceeding $680,000, according to waya.media.",
   "summary_ar": "دبي تُطلق مسابقة عالمية لوكلاء الذكاء الاصطناعي بجوائز تتجاوز 680 ألف دولار، بحسب waya.media.",
   "source_url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOSUVXV2E5elhvZmp5RXJQeVdxNWVmZEs3MDBBR25yb05zQW9xSVhIX1BRalVCVjBlS0Ffb2V2cXB1ZFpRTjdRYUxSaXE4QUw2eDdTblRvXzVUUEdwczhnVF81THFpb0lVV29kTjh0RW5uWmxOaGlEVC1jUUpWejZkdHpldXZ2dDdKa25yTXNhOGp1Znc3OFBka08tYkVUOWVUaDVlbFBZRHhZMjVSNjZYYWlXd0JPX3BlVkZMclk1VWhlRU1TWUF1Yi0tckpLOV9Hdk55czg3Z3FnVVRjSlJhTGdjdVA5dEw0UXFIOUx3WTNNaVhjekltMVlqbjg4eDBSd0JtR0JvZkJKU3k3YmFncFBoenVnSGxaMlA2QmZ3ZmZNaXUzZVNuNlpiUkVWcWdXUlhFM1c2eV9uR3BRSVVSUU5UOFZwUQ?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOSUVXV2E5elhvZmp5RXJQeVdxNWVmZEs3MDBBR25yb05zQW9xSVhIX1BRalVCVjBlS0Ffb2V2cXB1ZFpRTjdRYUxSaXE4QUw2eDdTblRvXzVUUEdwczhnVF81THFpb0lVV29kTjh0RW5uWmxOaGlEVC1jUUpWejZkdHpldXZ2dDdKa25yTXNhOGp1Znc3OFBka08tYkVUOWVUaDVlbFBZRHhZMjVSNjZYYWlXd0JPX3BlVkZMclk1VWhlRU1TWUF1Yi0tckpLOV9Hdk55czg3Z3FnVVRjSlJhTGdjdVA5dEw0UXFIOUx3WTNNaVhjekltMVlqbjg4eDBSd0JtR0JvZkJKU3k3YmFncFBoenVnSGxaMlA2QmZ3ZmZNaXUzZVNuNlpiUkVWcWdXUlhFM1c2eV9uR3BRSVVSUU5UOFZwUQ?oc=5",
@@ -895,10 +974,9 @@
   "category": "funding",
   "value": null,
   "currency": null,
-  "title": "شركات الذكاء الاصطناعي الناشئة بالإمارات تجمع 127.2 مليون دولار عبر 11صفقة منذ بداية 2026",
-  "title_pending": true,
+  "title": "UAE AI startups raise $127.2 million in 11 deals since start of 2026",
   "title_ar": "شركات الذكاء الاصطناعي الناشئة بالإمارات تجمع 127.2 مليون دولار عبر 11صفقة منذ بداية 2026",
-  "summary": "شركات الذكاء الاصطناعي الناشئة بالإمارات تجمع 127.2 مليون دولار عبر 11صفقة منذ بداية 2026",
+  "summary": "UAE artificial intelligence startups have raised $127.2 million across 11 deals since the start of 2026, according to a fintech portal.",
   "summary_ar": "شركات الذكاء الاصطناعي الناشئة بالإمارات تجمع 127.2 مليون دولار عبر 11صفقة منذ بداية 2026، بحسب بوابة التكنولوجيا المالية.",
   "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE10aF9odVNEdE1xVlg3TkdOb25McFMzX2o1eGo1ZktNR2s1NGJUTkdxNG1xTnVBS1VjY1Rmalp6RE8xdVZL?oc=5",
   "source_url_ar": "https://news.google.com/rss/articles/CBMiREFVX3lxTE10aF9odVNEdE1xVlg3TkdOb25McFMzX2o1eGo1ZktNR2s1NGJUTkdxNG1xTnVBS1VjY1Rmalp6RE8xdVZL?oc=5",
@@ -907,6 +985,27 @@
   "status": "unreviewed",
   "auto": true,
   "lang_source": "ar"
+ },
+ {
+  "id": "cdc1f46d75",
+  "slug": "2026-10-11-qatar-affirms-importance-of-digital-transformation-and-ai-fo",
+  "date": "2026-10-11",
+  "date_precision": "day",
+  "country": "Qatar",
+  "parties": [],
+  "category": "partnership",
+  "value": null,
+  "currency": null,
+  "title": "Qatar affirms importance of digital transformation and AI for economic and social",
+  "summary": "Qatar affirms importance of digital transformation and AI for economic and social development | Gulf Times (reported by Gulf Times).",
+  "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN1FiWF9KTVN3TERiakZKWmNCU1ZtekRGUVA5WTh0OEpudElWb1dobk1MbV9XX3RWZWFqVUFHTHpEY1p0Ul9hWlNuZGZxR1ZRNDc5R2QzNzhSdkJiV2NBcjBIRDV4U1ZtdWxXNm5GSTNnOUFVSjJsU2Z2bU9BOTNaNU9IbHdhSTdjLW1MRDNiTTdYS0x3UXA5Q0cwa1BpWFh4WU1DUGNLOHZ2cGhBd2h6UGQ4TDNZc04zaUFvcXhjbTNGS3ZCZHdBWkxBU3MtcTIyUThWRzYtdW55MkhvLXfSAd4BQVVfeXFMUDdRYlhfSk1Td0xEYmpGSlpjQlNWbXpERlFQOVk4dDhKbnRJVm9XaG5NTG1fV190VmVhalVBR0x6RGNadFJfYVpTbmRmcUdWUTQ3OUdkMzc4UnZCYldjQXIwSEQ1eFNWbXVsVzZuRkkzZzlBVUoybFNmdm1PQTkzWjVPSGx3YUk3Yy1tTEQzYk03WEtMd1FwOUNHMGtQaVhYeFlNQ1BjSzh2dnBoQXdoelBkOEwzWXNOM2lBb3F4Y20zRkt2QmR3QVpMQVNzLXEyMlE4Vkc2LXVueTJIby13?oc=5",
+  "source_name": "Gulf Times",
+  "source_domain": "gulf-times.com",
+  "status": "unreviewed",
+  "auto": true,
+  "title_ar": "تؤكد قطر أهمية التحول الرقمي والذكاء الاصطناعي للتنمية الاقتصادية والاجتماعية",
+  "summary_ar": "تؤكد قطر أهمية التحول الرقمي والذكاء الاصطناعي للتنمية الاقتصادية والاجتماعية، وفق ما أوردته «غلف تايمز».",
+  "ar_generated": "grok-4.7"
  },
  {
   "id": "8488f32cd1",
@@ -1071,16 +1170,21 @@
   "parties": [
    "MGX",
    "BlackRock GIP",
+   "AI Infrastructure Partnership",
    "Aligned Data Centers"
   ],
   "category": "M&A",
-  "value": 5000000000.0,
+  "value": 40000000000.0,
   "currency": "USD",
-  "title": "MGX, AIP and BlackRock's GIP close Aligned Data Centers acquisition",
-  "summary": "The Aligned acquisition closed, with an additional $5bn committed to Aligned's expansion.",
+  "title": "MGX, AIP and BlackRock's GIP close ~$40bn Aligned deal, add $5bn for expansion",
+  "summary": "The consortium completed its acquisition of 100% of Aligned Data Centers at an enterprise value of about $40bn, and committed an additional $5bn of growth capital to fund Aligned's expansion.",
   "source_url": "https://www.mgx.ae/news-insights/aip-mgx-and-blackrocks-gip-close-acquisition-aligned-data-centers",
-  "title_ar": "«إم جي إكس» وشركاؤها يُتمّون الاستحواذ على «ألايند داتا سنترز»",
-  "summary_ar": "أُنجزت صفقة استحواذ «إم جي إكس» و«شراكة البنية التحتية للذكاء الاصطناعي» و«جي آي بي» التابعة لبلاك روك على «ألايند داتا سنترز»، مع التزام إضافي بقيمة 5 مليارات دولار لتمويل توسعات الشركة."
+  "title_ar": "«إم جي إكس» وشركاؤها يُتمّون صفقة «ألايند» بنحو 40 مليار دولار ويضخّون 5 مليارات للتوسع",
+  "summary_ar": "أتمّ تحالف «شراكة البنية التحتية للذكاء الاصطناعي» و«إم جي إكس» و«جي آي بي» التابعة لبلاك روك الاستحواذ على كامل حصص «ألايند داتا سنترز» بقيمة منشأة تقارب 40 مليار دولار، والتزم بضخ 5 مليارات دولار إضافية كرأسمال نمو لتمويل توسعات الشركة.",
+  "additional_commitment": 5000000000.0,
+  "additional_commitment_note": "Growth capital committed at closing",
+  "same_transaction_as": "baaf512e60",
+  "index_note": "Closing of the Oct 2025 agreement: the $40bn is counted once in the Gulf AI Index (on the agreement record); only the new $5bn commitment is added here."
  },
  {
   "id": "be4e6e6fdf",

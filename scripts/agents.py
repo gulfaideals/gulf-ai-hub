@@ -85,3 +85,21 @@ full+="\n\n## All agent use cases\n"+"\n\n".join(f"### {u['title']} / {u.get('ti
 full+="\n\n## All Arabic AI tools\n"+"\n".join(f"- {t['name']} / {t.get('name_ar','')} ({t['category']}): {t['description']} | {t.get('description_ar','')} Arabic: {t['arabic_support']}. Pricing: {t['pricing']}. URL: {t['url']} Source: {t['source_url']}" for t in TL)
 w("/llms-full.txt",full+"\n")
 print("agents layer ok")
+
+# growth pages in llms.txt
+import os as _o
+_extra=f"""
+## Gulf AI Index / مؤشر الذكاء الاصطناعي الخليجي
+- {B}/gulf-ai-index/ (AR) · {B}/en/gulf-ai-index/ (EN) · JSON: {B}/api/gulf-ai-index.json — announced AI spend by country and company, methodology included; embed: {B}/widget.js
+## FII10 Live Deal Tracker (Riyadh, 26–29 Oct 2026)
+- {B}/fii10/ (AR) · {B}/en/fii10/ (EN) · JSON: {B}/api/fii10.json
+## Hubs (≥2 sourced records each)
+- Companies {B}/en/companies/ · Countries {B}/en/countries/ · Sectors {B}/en/sectors/
+## Agents
+- A2A agent card: {B}/.well-known/agent.json (JSON-RPC endpoint {B}/a2a, method message/send) · MCP: {B}/mcp
+## Policies
+- {B}/en/privacy/ · {B}/en/terms/ · {B}/en/support/ — contact gulfaideals@mail.grokbot.com
+"""
+for _f in ("llms.txt","llms-full.txt"):
+    _p=f"{out}/{_f}"
+    if _o.path.exists(_p): open(_p,"a").write(_extra)

@@ -7,7 +7,9 @@ cd "$(dirname "$0")/.."
 set -a; source ./.secrets; set +a   # .secrets provides EXPORT_SECRET, CLOUDFLARE_ACCOUNT_ID (+ optional XAI_API_KEY/OPENAI_API_KEY for Arabic generation)
 export SITE_URL=https://gulfaideals.com WRANGLER_SEND_METRICS=false
 python3 scripts/refresh.py > /tmp/gad_refresh.json
-python3 scripts/ar_auto.py
+[ -n "${CLOUDFLARE_API_TOKEN:-}" ] || { echo "ERROR: CLOUDFLARE_API_TOKEN not in env (run via: bash -lc 'scripts/daily.sh')"; exit 1; }
+[ -n "${XAI_API_KEY:-}" ] && echo "Arabic/English generation: xAI key from env" || echo "Arabic/English generation: no env key (ar_auto falls back to .secrets, else marks pending)"
+timeout 900 python3 scripts/ar_auto.py --all || echo "ar_auto: timed out/failed — continuing with build"
 python3 scripts/build.py > /dev/null
 /workspace/cftools/node_modules/.bin/node /workspace/cftools/node_modules/wrangler/bin/wrangler.js pages deploy dist --project-name gulfaideals --branch main --commit-dirty=true 2>&1 | grep -E "Deployment complete|ERROR" | sed 's/Take a peek.*//' || true
 python3 - <<'PY'

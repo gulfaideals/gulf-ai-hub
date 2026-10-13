@@ -1,0 +1,17 @@
+{
+ "event": "FII10 — Future Investment Initiative, 10th edition",
+ "event_ar": "مبادرة مستقبل الاستثمار في نسختها العاشرة (FII10)",
+ "start": "2026-10-26", "end": "2026-10-29",
+ "venue": "King Abdulaziz International Conference Center (KAICC), Riyadh",
+ "venue_ar": "مركز الملك عبدالعزيز الدولي للمؤتمرات، الرياض",
+ "theme": "The Power of Legacy", "theme_ar": "قوة الإرث",
+ "source_url": "https://fii-institute.org/conference/fii-10th-edition/",
+ "facts": [
+  {"en": "FII10 week runs 26–29 October 2026 at KAICC in Riyadh under the theme “The Power of Legacy”.", "ar": "يُعقد أسبوع FII10 بين 26 و29 أكتوبر 2026 في مركز الملك عبدالعزيز الدولي للمؤتمرات بالرياض تحت شعار «قوة الإرث».", "source_url": "https://fii-institute.org/conference/fii-10th-edition/"},
+  {"en": "Thursday 29 October is Investment Day — the organiser describes it as “where deals are made at FII10”.", "ar": "يُخصَّص الخميس 29 أكتوبر ليوم الاستثمار، الذي يصفه المنظمون بأنه اليوم الذي «تُعقد فيه الصفقات» خلال FII10.", "source_url": "https://fii-institute.org/conference/fii-10th-edition/"},
+  {"en": "One of the four programme pillars is “Technology that elevates” — AI, biotech, energy and space.", "ar": "تتضمن المحاور الأربعة للبرنامج محور «التقنية التي ترتقي»، ويشمل الذكاء الاصطناعي والتقنية الحيوية والطاقة والفضاء.", "source_url": "https://fii-institute.org/conference/fii-10th-edition/"},
+  {"en": "The organiser says FII has facilitated $250 billion in signed agreements and pledges since its first edition in 2017.", "ar": "يقول المنظمون إن المبادرة أسهمت منذ نسختها الأولى في 2017 في اتفاقيات وتعهدات موقّعة بقيمة 250 مليار دولار.", "source_url": "https://fii-institute.org/conference/fii-10th-edition/"}
+ ],
+ "manual_deal_ids": [],
+ "notes": "Deals are attached automatically: any published deal tagged 'fii10' by refresh.py (headline mentions FII / Future Investment Initiative / مبادرة مستقبل الاستثمار), or any Saudi deal dated within the event window. Add ids to manual_deal_ids to pin others."
+}

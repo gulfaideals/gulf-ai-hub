@@ -15,7 +15,7 @@ def headline(t,limit=90):
 root=os.path.dirname(os.path.dirname(os.path.abspath(__file__))); P=f"{root}/data/deals.json"
 WL=["reuters.com","bloomberg.com","arabnews.com","thenationalnews.com","gulfnews.com","zawya.com","saudigazette.com.sa","wam.ae","spa.gov.sa","argaam.com","khaleejtimes.com","agbi.com","ft.com","cnbc.com","datacenterdynamics.com","techcrunch.com","wsj.com","apnews.com","mediaoffice.ae","mediaoffice.abudhabi","qna.org.qa","bna.bh","kuna.net.kw","omannews.gov.om",
     "humain.com","g42.ai","mgx.ae","aboutamazon.com","blogs.microsoft.com","news.microsoft.com","nvidianews.nvidia.com","blog.google","googlecloudpresscorner.com","oracle.com","openai.com","aramco.com","adnoc.ae","pif.gov.sa","sdaia.gov.sa","stc.com.sa","eand.com","mubadala.com","presight.ai","khazna.ae","qia.qa"]
-DQ=["HUMAIN Saudi AI","G42 Abu Dhabi AI","MGX Abu Dhabi investment","Stargate UAE","SDAIA agreement","Saudi data center AI","UAE data centre AI","Saudi AI startup raises","UAE AI startup raises","Qatar AI investment","Kuwait AI data center","Bahrain AI data centre","Oman AI data center","NEOM AI"]
+DQ=["HUMAIN Saudi AI","G42 Abu Dhabi AI","MGX Abu Dhabi investment","Stargate UAE","SDAIA agreement","Saudi data center AI","UAE data centre AI","Saudi AI startup raises","UAE AI startup raises","Qatar AI investment","Kuwait AI data center","Bahrain AI data centre","Oman AI data center","NEOM AI","FII10 AI agreement","Future Investment Initiative AI deal"]
 UQ=["Saudi AI agent launches","UAE government AI agent","Dubai AI agent service","bank Saudi generative AI deploys","UAE bank AI agent","ZATCA AI automation"]
 TQ=["Arabic LLM launch","Arabic AI model released","Arabic speech recognition AI launch","Arabic text to speech AI","Arabic AI chatbot launch"]
 CC={"Saudi Arabia":r"\bsaudi|\bksa\b|riyadh|jeddah|neom|humain|sdaia|\bpif\b|dammam","UAE":r"\buae\b|emirat|abu dhabi|dubai|\bg42\b|\bmgx\b|khazna","Qatar":r"qatar|doha|\bqia\b","Kuwait":r"kuwait","Bahrain":r"bahrain","Oman":r"\boman\b|muscat"}
@@ -39,7 +39,7 @@ def candidates(qs,seen_u,seen_t,ar=False):
             if it["link"] in seen_u or norm(it["title"]) in seen_t: continue
             seen_u.add(it["link"]); seen_t.add(norm(it["title"])); yield it
 WL_AR=["spa.gov.sa","wam.ae","argaam.com","aawsat.com","asharqbusiness.com","asharq.com","alarabiya.net","aleqt.com","alkhaleej.ae","albayan.ae","alittihad.ae","okaz.com.sa","sabq.org","alriyadh.com","aljazeera.net","cnbcarabia.com","skynewsarabia.com","maaal.com","qna.org.qa","bna.bh","kuna.net.kw","omannews.gov.om"]+WL
-AQ=["هيوماين","جي42 الذكاء الاصطناعي","إم جي إكس استثمار","سدايا اتفاقية","مركز بيانات الذكاء الاصطناعي السعودية","مركز بيانات الذكاء الاصطناعي الإمارات","شركة ناشئة ذكاء اصطناعي تمويل السعودية","ستارغيت الإمارات"]
+AQ=["هيوماين","جي42 الذكاء الاصطناعي","إم جي إكس استثمار","سدايا اتفاقية","مركز بيانات الذكاء الاصطناعي السعودية","مركز بيانات الذكاء الاصطناعي الإمارات","شركة ناشئة ذكاء اصطناعي تمويل السعودية","ستارغيت الإمارات","مبادرة مستقبل الاستثمار الذكاء الاصطناعي اتفاقية"]
 CC_AR={"Saudi Arabia":r"السعود|المملكة|الرياض|جدة|نيوم|هيوماين|سدايا|صندوق الاستثمارات","UAE":r"الإمارات|أبوظبي|دبي|جي42|إم جي إكس|خزنة","Qatar":r"قطر|الدوحة","Kuwait":r"الكويت","Bahrain":r"البحرين","Oman":r"عُمان|عمان|مسقط"}
 AI_AR=r"الذكاء الاصطناعي|مراكز? البيانات|حوسبة|رقائق|نموذج لغوي"
 DV_AR=r"(توقع|توقيع|توقّع)\s|اتفاقية|مذكرة تفاهم|تستحوذ|استحواذ على|تجمع .*(مليون|مليار)|جولة تمويل|ترسية|مشروع مشترك|تستثمر .*(مليون|مليار)"
@@ -78,6 +78,8 @@ def main():
         ids.add(rec["id"]); new.append(rec)
     slugs={d["slug"] for d in D}
     new+=arabic_candidates(D,su,st,ids,slugs)
+    for r in new:
+        if re.search(r"\bFII\s?10\b|\bFII\b|Future Investment Initiative|مبادرة مستقبل الاستثمار",(r.get("title") or "")+" "+(r.get("title_ar") or "")): r["tags"]=sorted(set(r.get("tags",[]))|{"fii10"})
     for n in new:
         while n["slug"] in slugs: n["slug"]+="-2"
         slugs.add(n["slug"])

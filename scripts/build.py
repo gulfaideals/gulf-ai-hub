@@ -71,20 +71,20 @@ ORG={"@type":"Organization","@id":f"{B}/#org","name":"DealDune","alternateName":
 URLS=[]
 def page(lang,rel,title,desc,body,ld=None):
     t=T[lang]; p=P(lang); other="en" if lang=="ar" else "ar"; orel=rel
-    nav=f'<header><a class="logo" href="{p}/">{"ديل <span>ديون</span>" if lang=="ar" else "Deal<span>Dune</span>"}</a><a href="{p}/">{t["deals"]}</a><a href="{p}/use-cases/">{t["uc"]}</a><a href="{p}/tools/">{t["tools"]}</a><a href="{p}/agents/">{t["agents"]}</a><a href="{p}/sponsor/">{t["sponsor"]}</a><a href="{p}/about/">{t["about"]}</a><a href="{p}/rss.xml">{t["rss"]}</a><a class="sw" hreflang="{other}" lang="{other}" href="{P(other)}{orel}">{t["switch"]}</a></header>'
+    nav=f'<header><a class="logo" href="{p}/">{"ديل <span>ديون</span>" if lang=="ar" else "Deal<span>Dune</span>"}</a><a href="{p}/">{t["deals"]}</a><a href="{p}/use-cases/">{t["uc"]}</a><a href="{p}/tools/">{t["tools"]}</a><a href="{p}/gulf-ai-index/">{"المؤشر" if lang=="ar" else "Index"}</a><a href="{p}/fii10/">FII10</a><a href="{p}/companies/">{"الشركات" if lang=="ar" else "Companies"}</a><a href="{p}/agents/">{t["agents"]}</a><a href="{p}/sponsor/">{t["sponsor"]}</a><a href="{p}/about/">{t["about"]}</a><a href="{p}/rss.xml">{t["rss"]}</a><a class="sw" hreflang="{other}" lang="{other}" href="{P(other)}{orel}">{t["switch"]}</a></header>'
     lds="".join(f'<script type="application/ld+json">{json.dumps(x,ensure_ascii=False)}</script>' for x in (ld or []))
     h=f'''<!doctype html><html lang="{lang}" dir="{t["dir"]}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(title)}</title><meta name="description" content="{e(desc)}"><link rel="canonical" href="{B}{p}{rel}">
 <link rel="alternate" hreflang="ar" href="{B}{rel}"><link rel="alternate" hreflang="en" href="{B}/en{rel}"><link rel="alternate" hreflang="x-default" href="{B}{rel}">
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:type" content="website"><meta property="og:url" content="{B}{p}{rel}"><meta property="og:locale" content="{"ar_AR" if lang=="ar" else "en_US"}"><meta name="twitter:card" content="summary">
 <link rel="icon" href="/favicon.svg"><link rel="alternate" type="application/rss+xml" title="DealDune" href="{p}/rss.xml"><link rel="alternate" type="text/plain" title="llms.txt" href="/llms.txt">{FONT}<style>{CSS}</style></head><body>{nav}<main>{body}</main>
-<footer>© {YEAR} {t["footer"]}</footer>{lds}</body></html>'''
+<footer>© {YEAR} {t["footer"]} · <a href="{p}/privacy/">{"الخصوصية" if lang=="ar" else "Privacy"}</a> · <a href="{p}/terms/">{"الشروط" if lang=="ar" else "Terms"}</a> · <a href="{p}/support/">{"الدعم" if lang=="ar" else "Support"}</a> · <a href="{p}/countries/">{"الدول" if lang=="ar" else "Countries"}</a> · <a href="{p}/sectors/">{"القطاعات" if lang=="ar" else "Sectors"}</a></footer>{lds}</body></html>'''
     fp=f"{out}{p}{rel}index.html"; os.makedirs(os.path.dirname(fp),exist_ok=True); open(fp,"w").write(h)
     if lang=="ar": URLS.append(rel)
 def NL(lang):
     t=T[lang]
     return f'''<div class="card"><h3>{t["nl_h"]}</h3><p class="muted">{t["nl_p"]}</p>
-<form class="f nl" method="post" action="/api/subscribe"><input name="email" type="email" required placeholder="{t["nl_ph"]}" dir="ltr"><input name="website" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px" aria-hidden="true"><button>{t["nl_btn"]}</button><span class="msg muted"></span></form></div>
+<form class="f nl" method="post" action="/api/subscribe"><input name="email" type="email" required placeholder="{t["nl_ph"]}" dir="ltr"><input name="website" tabindex="-1" autocomplete="off" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);opacity:0" aria-hidden="true"><button>{t["nl_btn"]}</button><span class="msg muted"></span></form></div>
 <script>document.querySelectorAll('form.nl').forEach(f=>f.onsubmit=async ev=>{{ev.preventDefault();const m=f.querySelector('.msg');m.textContent='…';try{{const r=await fetch('/api/subscribe',{{method:'POST',headers:{{'Content-Type':'application/json'}},body:JSON.stringify({{email:f.email.value,website:f.website.value,source:location.pathname,lang:document.documentElement.lang}})}});const j=await r.json();if(j.ok){{f.innerHTML='<b>'+(document.documentElement.lang==='ar'?(j.message_ar||'شكراً لاشتراكك.'):j.message)+'</b>'}}else m.textContent=(document.documentElement.lang==='ar'?(j.error_ar||j.error):j.error)}}catch(e){{m.textContent='{t["nl_err"]}'}}}});</script>'''
 def SP(lang): return f'<div class="sp">{T[lang]["sp_banner"]}</div>'
 FILTER_JS="""<script>const f=()=>{const g=i=>(document.getElementById(i)||{}).value||'';const c=g('c'),k=g('k'),q=g('q').toLowerCase();document.querySelectorAll('#list .card').forEach(x=>{x.style.display=(!c||x.dataset.c==c)&&(!k||x.dataset.k==k)&&(!q||x.textContent.toLowerCase().includes(q))?'':'none'})};['c','k','q'].forEach(i=>{const el=document.getElementById(i);if(el)el.addEventListener('input',f)});const _q=new URLSearchParams(location.search).get('q');if(_q){document.getElementById('q').value=_q;f()}</script>"""
@@ -175,6 +175,7 @@ for lang in ("ar","en"):
     items+="".join(f"<item><title>{e(('أداة: ' if lang=='ar' else 'Tool: ')+tname(x))}</title><link>{B}{p}/tools/{x['slug']}/</link><guid>{B}{p}/tools/{x['slug']}/</guid><description>{e(tdesc(x))}</description></item>" for x in TL)
     os.makedirs(f"{out}{p}",exist_ok=True)
     open(f"{out}{p}/rss.xml","w").write(f'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>{e(t["brand"])} — {e(t["tag"])}</title><link>{B}{p}/</link><language>{lang}</language><description>{e(t["tag"])}</description>{items}</channel></rss>')
+exec(open(f"{root}/scripts/hub_pages.py").read())
 sm=''.join(f'<url><loc>{B}{p}{u}</loc><xhtml:link rel="alternate" hreflang="ar" href="{B}{u}"/><xhtml:link rel="alternate" hreflang="en" href="{B}/en{u}"/><xhtml:link rel="alternate" hreflang="x-default" href="{B}{u}"/></url>' for u in URLS for p in ("","/en"))
 open(f"{out}/sitemap.xml","w").write('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">'+sm+"</urlset>")
 print("built",len(D),"deals,",len(UC),"use cases,",len(TL),"tools x2 languages ->",out,flush=True)
