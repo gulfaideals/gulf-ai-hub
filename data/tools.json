@@ -1,0 +1,312 @@
+[
+ {
+  "slug": "jais-2",
+  "name": "Jais 2",
+  "category": "Arabic LLM",
+  "description": "Arabic-centric open LLM family (8B/70B); the paper emphasises Arabic and dialectal performance.",
+  "arabic_support": "Arabic incl. dialects (per paper)",
+  "pricing": "Open weights",
+  "url": "https://inceptionai.ai",
+  "source_url": "https://arxiv.org/abs/2608.13580"
+ },
+ {
+  "slug": "falcon-h1-arabic",
+  "name": "Falcon-H1-Arabic",
+  "category": "Arabic LLM",
+  "description": "TII's hybrid-architecture Arabic models (3B/7B/34B) with long context.",
+  "arabic_support": "Arabic incl. dialects (per TII blog)",
+  "pricing": "Open weights",
+  "url": "https://falcon-lm.github.io",
+  "source_url": "https://falcon-lm.github.io/blog/falcon-h1-arabic/"
+ },
+ {
+  "slug": "fanar",
+  "name": "Fanar",
+  "category": "Arabic LLM",
+  "description": "Qatar's Arabic generative AI stack (Fanar 2.0) from QCRI/HBKU.",
+  "arabic_support": "Arabic (MSA and dialects per paper)",
+  "pricing": "Free access / research",
+  "url": "https://fanar.qa",
+  "source_url": "https://fdalvi.github.io/research/2026-03-arXiv-Fanar-2.0/paper.pdf"
+ },
+ {
+  "slug": "allam",
+  "name": "ALLaM",
+  "category": "Arabic LLM",
+  "description": "Saudi Arabic LLM (7B/34B) from SDAIA/HUMAIN; available on Amazon Bedrock.",
+  "arabic_support": "Arabic",
+  "pricing": "Via cloud providers",
+  "url": "https://www.humain.com",
+  "source_url": "https://www.humain.com/en/news/humain-and-aws-expand-strategic-collaboration.html"
+ },
+ {
+  "slug": "silma",
+  "name": "SILMA",
+  "category": "Arabic LLM",
+  "description": "Arabic-focused 9B model family from SILMA AI.",
+  "arabic_support": "Arabic",
+  "pricing": "Open weights",
+  "url": "https://silma.ai",
+  "source_url": "https://huggingface.co/blog/silma-ai/arabic-llm-models-list"
+ },
+ {
+  "slug": "command-r7b-arabic",
+  "name": "Command R7B Arabic",
+  "category": "Arabic LLM",
+  "description": "Cohere's small enterprise-focused Arabic/English model optimised for RAG.",
+  "arabic_support": "Mainly MSA (per paper)",
+  "pricing": "Open weights (non-commercial) + paid API",
+  "url": "https://cohere.com",
+  "source_url": "https://arxiv.org/html/2503.14603"
+ },
+ {
+  "slug": "acegpt",
+  "name": "AceGPT",
+  "category": "Arabic LLM",
+  "description": "Culturally aligned Arabic LLM from academic researchers.",
+  "arabic_support": "Arabic",
+  "pricing": "Open weights",
+  "url": "https://github.com/FreedomIntelligence/AceGPT",
+  "source_url": "https://github.com/OsamaALHajj/awesome-arabic-ai"
+ },
+ {
+  "slug": "noor",
+  "name": "Noor",
+  "category": "Arabic LLM",
+  "description": "Early large-scale Arabic NLP/language model listed in Arabic AI resource directories.",
+  "arabic_support": "Arabic",
+  "pricing": "See source",
+  "url": "https://github.com/OsamaALHajj/awesome-arabic-ai",
+  "source_url": "https://github.com/OsamaALHajj/awesome-arabic-ai"
+ },
+ {
+  "slug": "mawdoo3-ai-apis",
+  "name": "Mawdoo3 AI APIs",
+  "category": "Arabic NLP",
+  "description": "Arabic NLP APIs for sentiment, topics, entities and moderation.",
+  "arabic_support": "Arabic",
+  "pricing": "Paid API",
+  "url": "https://ai.mawdoo3.com",
+  "source_url": "https://github.com/OsamaALHajj/awesome-arabic-ai"
+ },
+ {
+  "slug": "baseer",
+  "name": "Baseer",
+  "category": "OCR",
+  "description": "Arabic OCR vision-language model for printed documents from Misraj AI.",
+  "arabic_support": "Arabic",
+  "pricing": "See vendor site",
+  "url": "https://misraj.ai/en/models/baseer",
+  "source_url": "https://misraj.ai/en/models/baseer"
+ },
+ {
+  "slug": "baseer-nakba",
+  "name": "Baseer-Nakba",
+  "category": "OCR",
+  "description": "Handwritten Arabic manuscript OCR model; won the 2026 NAKBA handwritten-text task.",
+  "arabic_support": "Arabic handwriting",
+  "pricing": "Open weights",
+  "url": "https://huggingface.co/Misraj/Baseer__Nakba",
+  "source_url": "https://huggingface.co/Misraj/Baseer__Nakba"
+ },
+ {
+  "slug": "qari-ocr",
+  "name": "Qari-OCR",
+  "category": "OCR",
+  "description": "Arabic OCR VLM (v0.3, 2B) preserving layout; handwriting support described as preliminary.",
+  "arabic_support": "Arabic",
+  "pricing": "Open weights",
+  "url": "https://huggingface.co/NAMAA-Space/Qari-OCR-v0.3-VL-2B-Instruct",
+  "source_url": "https://arxiv.org/html/2506.02295"
+ },
+ {
+  "slug": "mistral-ocr",
+  "name": "Mistral OCR",
+  "category": "OCR",
+  "description": "General document OCR noted as strong on printed Arabic text.",
+  "arabic_support": "Arabic (printed)",
+  "pricing": "Paid API",
+  "url": "https://mistral.ai",
+  "source_url": "https://arxiv.org/html/2506.02295"
+ },
+ {
+  "slug": "munsit-stt",
+  "name": "Munsit STT",
+  "category": "Speech-to-text",
+  "description": "Arabic speech recognition API with streaming and diarization.",
+  "arabic_support": "25+ Arabic dialects (vendor)",
+  "pricing": "Paid API",
+  "url": "https://munsit.com",
+  "source_url": "https://munsit.com/"
+ },
+ {
+  "slug": "munsit-faseeh-tts",
+  "name": "Munsit Faseeh TTS",
+  "category": "Text-to-speech",
+  "description": "Arabic TTS with Gulf voices.",
+  "arabic_support": "Emirati, Khaleeji, Najdi, Hijazi (vendor docs)",
+  "pricing": "Paid API",
+  "url": "https://docs.munsit.com",
+  "source_url": "https://docs.munsit.com/text-to-speech/voices"
+ },
+ {
+  "slug": "lahajati",
+  "name": "Lahajati",
+  "category": "Text-to-speech",
+  "description": "Arabic voice generator for voice-overs and audiobooks, plus STT and SRT export.",
+  "arabic_support": "192+ dialects/variants claimed (vendor)",
+  "pricing": "Freemium",
+  "url": "https://lahajati.ai/en",
+  "source_url": "https://lahajati.ai/en"
+ },
+ {
+  "slug": "elevenlabs-dubbing",
+  "name": "ElevenLabs Dubbing",
+  "category": "Dubbing",
+  "description": "Multilingual AI dubbing with voice cloning.",
+  "arabic_support": "Arabic (ar) and Egyptian Arabic (ar-EG) on Dubbing v2",
+  "pricing": "Freemium / subscription",
+  "url": "https://elevenlabs.io",
+  "source_url": "https://elevenlabs.io/docs/overview/capabilities/dubbing.mdx"
+ },
+ {
+  "slug": "heygen-video-translate",
+  "name": "HeyGen Video Translate",
+  "category": "Dubbing & lip-sync",
+  "description": "Video translation with voice cloning and lip-sync into 175+ languages.",
+  "arabic_support": "Arabic incl. country variants (per HeyGen locale guide)",
+  "pricing": "Freemium / subscription",
+  "url": "https://www.heygen.com/translate",
+  "source_url": "https://github.com/heygen-com/skills/blob/HEAD/heygen-translate/references/language-locale-guide.md"
+ },
+ {
+  "slug": "rask-ai",
+  "name": "Rask AI",
+  "category": "Dubbing & lip-sync",
+  "description": "Video localisation: translation, dubbing, voice cloning, captions and lip-sync.",
+  "arabic_support": "Arabic",
+  "pricing": "Freemium / subscription",
+  "url": "https://www.rask.ai",
+  "source_url": "https://www.rask.ai/free-tools/ai-dubbing/arabic-dubbing"
+ },
+ {
+  "slug": "amazon-polly-gulf-arabic",
+  "name": "Amazon Polly (Gulf Arabic)",
+  "category": "Text-to-speech",
+  "description": "AWS TTS with Gulf Arabic neural voices Hala and Zayd (ar-AE).",
+  "arabic_support": "Gulf Arabic (ar-AE), MSA",
+  "pricing": "Pay-as-you-go",
+  "url": "https://aws.amazon.com/polly/",
+  "source_url": "https://docs.aws.amazon.com/polly/latest/dg/available-voices.html"
+ },
+ {
+  "slug": "azure-ai-speech-tts",
+  "name": "Azure AI Speech TTS",
+  "category": "Text-to-speech",
+  "description": "Microsoft neural voices per Arabic country locale (e.g., ar-AE, ar-SA, ar-KW, ar-QA).",
+  "arabic_support": "Country locales incl. all GCC",
+  "pricing": "Pay-as-you-go",
+  "url": "https://azure.microsoft.com/products/ai-services/ai-speech",
+  "source_url": "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support"
+ },
+ {
+  "slug": "azure-ai-speech-stt",
+  "name": "Azure AI Speech STT",
+  "category": "Speech-to-text",
+  "description": "Microsoft speech recognition with Arabic country locales.",
+  "arabic_support": "Arabic country locales",
+  "pricing": "Pay-as-you-go",
+  "url": "https://azure.microsoft.com/products/ai-services/ai-speech",
+  "source_url": "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support"
+ },
+ {
+  "slug": "google-cloud-speech-to-text",
+  "name": "Google Cloud Speech-to-Text",
+  "category": "Speech-to-text",
+  "description": "Google STT with Arabic locales incl. ar-AE, ar-SA, ar-KW, ar-QA, ar-BH, ar-OM.",
+  "arabic_support": "18 Arabic locales",
+  "pricing": "Pay-as-you-go",
+  "url": "https://cloud.google.com/speech-to-text",
+  "source_url": "https://docs.cloud.google.com/speech-to-text/docs/speech-to-text-supported-languages"
+ },
+ {
+  "slug": "deepgram-nova-3",
+  "name": "Deepgram Nova-3",
+  "category": "Speech-to-text",
+  "description": "Real-time STT reported as a strong Arabic option for voice agents (independent directory).",
+  "arabic_support": "Arabic",
+  "pricing": "Pay-as-you-go",
+  "url": "https://deepgram.com",
+  "source_url": "https://voicearabic.com/en"
+ },
+ {
+  "slug": "arabic-ai-suite",
+  "name": "Arabic.AI Suite",
+  "category": "Enterprise AI platform",
+  "description": "Enterprise Arabic AI layer incl. speech and agents, deployable in VPC/on-prem.",
+  "arabic_support": "22 dialects for speech (vendor)",
+  "pricing": "Enterprise",
+  "url": "https://arabic.ai",
+  "source_url": "https://arabic.ai/"
+ },
+ {
+  "slug": "maqsam-ai-agent",
+  "name": "Maqsam AI Agent",
+  "category": "Chatbot / voice agent",
+  "description": "Arabic-native AI agent integrated with call-centre software, with human escalation and CRM integrations.",
+  "arabic_support": "GCC, Levantine, Egyptian; Arabic-English mix (vendor)",
+  "pricing": "Subscription",
+  "url": "https://maqsam.com/ai-agent",
+  "source_url": "https://maqsam.com/ai-agent"
+ },
+ {
+  "slug": "wittify",
+  "name": "Wittify",
+  "category": "Chatbot / voice agent",
+  "description": "Low-code omnichannel agents (voice, web, WhatsApp, social) with GCC data residency.",
+  "arabic_support": "25+ Arabic dialects (vendor)",
+  "pricing": "Subscription",
+  "url": "https://wittify.ai",
+  "source_url": "https://wittify.ai/"
+ },
+ {
+  "slug": "lucidya",
+  "name": "Lucidya",
+  "category": "CX & social listening",
+  "description": "CX management suite with Arabic NLP, social listening and omnichannel support.",
+  "arabic_support": "17 dialects (vendor)",
+  "pricing": "Enterprise",
+  "url": "https://www.lucidya.com",
+  "source_url": "https://www.lucidya.com/blog/culturally-relevant-ai-innovation-nuance-privacy-mena"
+ },
+ {
+  "slug": "heybreez",
+  "name": "HeyBreez",
+  "category": "Voice agent",
+  "description": "Arabic voice agents deployed with Arabic.AI for telecom customer calls.",
+  "arabic_support": "Arabic",
+  "pricing": "Enterprise",
+  "url": "https://aiinarabia.com/arabic-ai/arabic-ai-heybreez-etisalat-voice-agents-gulf-enterprise-2026",
+  "source_url": "https://aiinarabia.com/arabic-ai/arabic-ai-heybreez-etisalat-voice-agents-gulf-enterprise-2026"
+ },
+ {
+  "slug": "atain",
+  "name": "Atain",
+  "category": "Chatbot / voice agent",
+  "description": "Agentic AI for customer service used by a Middle Eastern airline.",
+  "arabic_support": "Multilingual incl. Arabic (vendor)",
+  "pricing": "Enterprise",
+  "url": "https://atain.com",
+  "source_url": "https://atain.com/client-outcome/agentic-ai-helps-a-leading-middle-eastern-airline-reduce-live-contacts-by-45-and-maintain-%E2%89%A590-even-during-disruptions/"
+ },
+ {
+  "slug": "mozn-focal",
+  "name": "Mozn FOCAL",
+  "category": "Fraud & AML AI",
+  "description": "Saudi AI platform for real-time financial crime detection, used by Al Rajhi Bank.",
+  "arabic_support": "Arabic-region focused",
+  "pricing": "Enterprise",
+  "url": "https://mozn.sa",
+  "source_url": "https://aiinarabia.com/guides/ai-for-banking-gulf-2026-emirates-nbd-fab-al-rajhi-arabic-fraud"
+ }
+]

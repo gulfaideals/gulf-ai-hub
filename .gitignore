@@ -1,0 +1,9 @@
+.secrets
+.gh_token
+node_modules/
+dist/
+.wrangler/
+issues/
+*.png
+.env*
+__pycache__/

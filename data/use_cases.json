@@ -1,0 +1,422 @@
+[
+ {
+  "slug": "abu-dhabi-tamm-autogov-runs-recurring-services-automatically",
+  "title": "Abu Dhabi TAMM AutoGov runs recurring services automatically",
+  "sector": "Government services",
+  "country": "UAE",
+  "tool": "TAMM AutoGov (DGE)",
+  "summary": "TAMM 4.0 (Oct 2025) added AutoGov, which manages recurring tasks such as licence renewals, utility payments and routine healthcare appointments in the background, with user-set preferences.",
+  "how_to": "1) List high-frequency renewals/payments in your service catalogue. 2) Let users opt in and set rules (amount caps, reminders). 3) Run an agent that checks due dates, pre-fills and submits, and notifies the user. 4) Log every action for audit and allow one-tap reversal.",
+  "source_url": "https://www.dge.gov.ae/en/news/2025-gitex-tamm-4"
+ },
+ {
+  "slug": "tamm-ai-assistant-completes-services-on-the-user-s-behalf",
+  "title": "TAMM AI Assistant completes services on the user's behalf",
+  "sector": "Government services",
+  "country": "UAE",
+  "tool": "TAMM AI Assistant",
+  "summary": "The TAMM AI Assistant gives contextual, proactive support across 1,100+ public and private services from 90+ partners and can complete many services for the customer.",
+  "how_to": "1) Index service requirements as structured knowledge. 2) Give an LLM assistant tool access to eligibility checks and form submission APIs. 3) Require explicit user confirmation before submitting. 4) Hand off to a human for exceptions.",
+  "source_url": "https://www.dge.gov.ae/en/news/2025-gitex-tamm-4"
+ },
+ {
+  "slug": "uae-federal-tax-audit-ai-agent",
+  "title": "UAE federal tax-audit AI agent",
+  "sector": "Government services",
+  "country": "UAE",
+  "tool": "Federal government AI agents",
+  "summary": "In May 2026 the UAE launched its first wave of government AI agents; the tax auditing agent improves data verification and review to speed compliance and audits.",
+  "how_to": "1) Feed the agent filings plus reference data. 2) Have it flag mismatches against rules and prior periods. 3) Produce an evidence pack per flag. 4) Auditors approve or dismiss; feed outcomes back to tune thresholds.",
+  "source_url": "https://www.thenationalnews.com/news/uae/2026/05/20/uae-launches-first-batch-of-ai-agents-to-aid-tax-audits-and-customer-service/"
+ },
+ {
+  "slug": "uae-customer-happiness-ai-agent-for-service-staff",
+  "title": "UAE 'customer happiness' AI agent for service staff",
+  "sector": "Arabic customer service",
+  "country": "UAE",
+  "tool": "Federal government AI agents",
+  "summary": "The customer happiness agent gives service agents swift access to essential information for faster responses, part of a plan to deliver half of government services via agentic AI within two years.",
+  "how_to": "1) Build a retrieval index over policies and FAQs in Arabic and English. 2) Surface suggested answers with citations in the agent desktop. 3) Track handle time and accuracy. 4) Expand to self-service once accuracy is proven.",
+  "source_url": "https://www.thenationalnews.com/news/uae/2026/05/20/uae-launches-first-batch-of-ai-agents-to-aid-tax-audits-and-customer-service/"
+ },
+ {
+  "slug": "uae-government-procurement-and-it-support-agents",
+  "title": "UAE government procurement and IT-support agents",
+  "sector": "Government services",
+  "country": "UAE",
+  "tool": "Federal government AI agents",
+  "summary": "The same May 2026 launch included procurement and technical-support agents; the technical agent manages IT services and assists technical teams.",
+  "how_to": "1) Start with ticket triage: classify, route and suggest fixes from the knowledge base. 2) For procurement, let the agent draft RFQs and compare offers against templates. 3) Keep humans approving awards and spend.",
+  "source_url": "https://www.thenationalnews.com/news/uae/2026/05/20/uae-launches-first-batch-of-ai-agents-to-aid-tax-audits-and-customer-service/"
+ },
+ {
+  "slug": "tawakkalna-ai-assistant-guides-citizens-through-services",
+  "title": "Tawakkalna AI assistant guides citizens through services",
+  "sector": "Government services",
+  "country": "Saudi Arabia",
+  "tool": "Tawakkalna (SDAIA)",
+  "summary": "Tawakkalna's integrated assistant handles user queries in Arabic and English with multi-turn dialogue, guiding people through requirements and procedures (per an industry overview).",
+  "how_to": "1) Map each service's requirements. 2) Deploy a bilingual conversational layer over that map. 3) Personalise with user context (with consent). 4) Escalate unresolved journeys to human channels.",
+  "source_url": "https://riyadhweb3.com/ai-strategy/generative-ai-adoption/"
+ },
+ {
+  "slug": "tawakkalna-scales-to-1-000-integrated-government-services",
+  "title": "Tawakkalna scales to 1,000+ integrated government services",
+  "sector": "Government services",
+  "country": "Saudi Arabia",
+  "tool": "Tawakkalna (SDAIA)",
+  "summary": "SDAIA ran 60+ onboarding meetings with 100+ government entities to integrate services into Tawakkalna, which now offers over 1,000 digital services.",
+  "how_to": "1) Publish a standard integration kit (APIs, UI components). 2) Run onboarding workshops per entity. 3) Track time-to-launch per service. 4) Reuse identity and payments across services.",
+  "source_url": "https://my.gov.sa/en/news/635405"
+ },
+ {
+  "slug": "absher-virtual-agent-for-passport-and-visa-queries",
+  "title": "Absher virtual agent for passport and visa queries",
+  "sector": "Arabic customer service",
+  "country": "Saudi Arabia",
+  "tool": "Absher virtual agent",
+  "summary": "Absher's virtual agent supports passport, visa and civil registration questions and reportedly resolves ~72% of inquiries without human escalation (industry overview figure).",
+  "how_to": "1) Train on historical transcripts and procedure documents. 2) Cover top intents first. 3) Measure containment and escalation quality. 4) Retrain monthly on failed conversations.",
+  "source_url": "https://riyadhweb3.com/ai-strategy/generative-ai-adoption/"
+ },
+ {
+  "slug": "emirates-nbd-enterprise-conversational-agent-platform",
+  "title": "Emirates NBD enterprise conversational agent platform",
+  "sector": "Banking",
+  "country": "UAE",
+  "tool": "Emirates NBD ECA platform",
+  "summary": "Emirates NBD runs 100+ AI use cases; its Enterprise Conversational Agent platform grounds virtual-agent answers in curated knowledge with guardrails and escalation to humans.",
+  "how_to": "1) Curate an approved knowledge base. 2) Ground every answer in it (RAG) and refuse outside scope. 3) Add guardrails for PII and advice. 4) Provide one-click human escalation.",
+  "source_url": "https://www.emiratesnbd.com/-/media/enbd/files/pdf/our-approach-to-adopting-ai.pdf"
+ },
+ {
+  "slug": "emirates-nbd-routes-inquiries-through-arabic-optimised-models",
+  "title": "Emirates NBD routes inquiries through Arabic-optimised models",
+  "sector": "Banking",
+  "country": "UAE",
+  "tool": "Arabic LLMs",
+  "summary": "Emirates NBD routes retail and corporate service inquiries through Arabic-optimised language models before human escalation (reported by trade press).",
+  "how_to": "1) Detect language/dialect per message. 2) Route to an Arabic-strong model. 3) Limit to account inquiries and requests at first. 4) Review samples weekly for tone and accuracy.",
+  "source_url": "https://aiinarabia.com/business/emirates-nbd-deploys-arabic-ai-for-financial-services-2026-04-29"
+ },
+ {
+  "slug": "fab-runs-30-agentic-ai-use-cases-in-production",
+  "title": "FAB runs 30+ agentic AI use cases in production",
+  "sector": "Banking",
+  "country": "UAE",
+  "tool": "FAB AI Innovation Hub",
+  "summary": "FAB said in Feb 2026 that 30+ agentic AI use cases are progressing across trade and payments, client operations, compliance and engineering, on a data platform with 90%+ of structured data integrated.",
+  "how_to": "1) Set up a central AI hub with governance and reusable components. 2) Consolidate data first. 3) Pick ops-heavy workflows (trade docs, payments exceptions). 4) Measure productivity per use case before scaling.",
+  "source_url": "https://www.bankfab.com/en-ae/about-fab/group/in-the-media/fab-accelerates-enterprise-ai-adoption"
+ },
+ {
+  "slug": "al-rajhi-arabic-assistant-and-ai-fraud-detection",
+  "title": "Al Rajhi Arabic assistant and AI fraud detection",
+  "sector": "Banking",
+  "country": "Saudi Arabia",
+  "tool": "Rajhi assistant; Mozn FOCAL",
+  "summary": "Al Rajhi's Arabic NLP assistant serves account and transaction queries 24/7, and the bank uses Mozn's FOCAL platform for real-time financial crime detection (per trade press).",
+  "how_to": "1) Deploy an Arabic assistant for balance/transaction intents. 2) Connect transaction streams to a fraud-scoring engine. 3) Auto-hold high-risk payments and alert the customer. 4) Route cases to investigators with explanations.",
+  "source_url": "https://aiinarabia.com/guides/ai-for-banking-gulf-2026-emirates-nbd-fab-al-rajhi-arabic-fraud"
+ },
+ {
+  "slug": "snb-moves-sme-underwriting-onto-an-arabic-llm",
+  "title": "SNB moves SME underwriting onto an Arabic LLM",
+  "sector": "Banking",
+  "country": "Saudi Arabia",
+  "tool": "Tameel (Arabic LLM)",
+  "summary": "Saudi National Bank reportedly uses an Arabic LLM ('Tameel') for SME cash-flow analysis, document review and first-draft credit memos, with human approval retained.",
+  "how_to": "1) Extract data from statements and documents. 2) Have the model draft the credit memo with cited figures. 3) Keep credit officers as decision-makers. 4) Retain audit logs per regulator rules.",
+  "source_url": "https://aiinarabia.com/finance/saudi-national-bank-arabic-llm-sme-credit-underwriting-2026-05-01"
+ },
+ {
+  "slug": "mashreq-sharia-audit-engine",
+  "title": "Mashreq Sharia audit engine",
+  "sector": "Banking",
+  "country": "UAE",
+  "tool": "Mashreq AI audit engine",
+  "summary": "Mashreq deployed a UAE Sharia audit engine in late April 2026, according to a trade-press report on Gulf banking AI.",
+  "how_to": "1) Encode Sharia board rules as checks. 2) Run contracts and transactions through the checks. 3) Flag deviations for scholars' review. 4) Keep rulings as precedents for the model.",
+  "source_url": "https://aiinarabia.com/finance/saudi-national-bank-arabic-llm-sme-credit-underwriting-2026-05-01"
+ },
+ {
+  "slug": "adnoc-energyai-agents-across-upstream",
+  "title": "ADNOC ENERGYai agents across upstream",
+  "sector": "Oil & gas",
+  "country": "UAE",
+  "tool": "ENERGYai (AIQ)",
+  "summary": "AIQ signed a $340m, three-year contract to roll out ENERGYai agentic AI across ADNOC's upstream value chain, from seismic analysis to geological modelling and process monitoring.",
+  "how_to": "1) Pick a narrow workflow (e.g., seismic interpretation). 2) Prove value in a PoC with domain experts. 3) Build task-specific agents on your proprietary data. 4) Scale field by field.",
+  "source_url": "https://aiq.ae/newsroom/news-and-press-releases/AIQ-announces-340-million-contract-for-large-scale-deployment-of-agentic-AI-across-ADNOC-operations"
+ },
+ {
+  "slug": "aramco-metabrain-industrial-llm",
+  "title": "Aramco METABRAIN industrial LLM",
+  "sector": "Oil & gas",
+  "country": "Saudi Arabia",
+  "tool": "aramcoMETABRAIN",
+  "summary": "Aramco trained an industrial LLM on decades of proprietary data to put expert knowledge at operators', technicians' and engineers' fingertips, scaled on an NVIDIA SuperPOD.",
+  "how_to": "1) Collect manuals, reports and incident logs. 2) Fine-tune or RAG an LLM on them. 3) Expose it to field staff with citations. 4) Pair with a cybersecurity programme for AI.",
+  "source_url": "https://www.aramcolife.com/en/publications/the-arabian-sun/articles/2024/week-37/video-aramco-at-gain-aramcometabrain"
+ },
+ {
+  "slug": "autonomous-control-ai-agents-at-fadhili-gas-plant",
+  "title": "Autonomous control AI agents at Fadhili Gas Plant",
+  "sector": "Oil & gas",
+  "country": "Saudi Arabia",
+  "tool": "Yokogawa FKDPP agents",
+  "summary": "Yokogawa's reinforcement-learning agents autonomously control acid gas removal at Aramco's Fadhili plant; initial results show 10\u201315% less amine and steam and ~5% less power.",
+  "how_to": "1) Choose a well-instrumented unit. 2) Train RL control on historian data and a simulator. 3) Run in advisory mode, then closed loop with limits. 4) Track energy, chemicals and stability.",
+  "source_url": "https://www.businesswire.com/news/home/20251028792329/en/Aramco-and-Yokogawa-Achieve-a-Major-Milestone-with-Commissioning-of-Multiple-Autonomous-Control-AI-Agents-at-Major-Gas-Facility"
+ },
+ {
+  "slug": "emirates-post-ai-parcel-segregation",
+  "title": "Emirates Post AI parcel segregation",
+  "sector": "Logistics & postal",
+  "country": "UAE",
+  "tool": "Covansys image-recognition sorting",
+  "summary": "Emirates Post Group implemented AI image recognition to classify parcels by size, weight and destination and route them to lanes automatically.",
+  "how_to": "1) Install cameras/scales on the induction line. 2) Train a classifier on labelled parcel images. 3) Drive sorter gates from predictions. 4) Send low-confidence parcels to manual review.",
+  "source_url": "https://covansystech.com/emirates-post-group-how-ai-powered-parcel-segregation-boosted-efficiency/"
+ },
+ {
+  "slug": "aramex-ai-first-data-foundation",
+  "title": "Aramex AI-first data foundation",
+  "sector": "Logistics & postal",
+  "country": "UAE",
+  "tool": "Google Cloud Lakehouse + agentic AI",
+  "summary": "Aramex launched a global data platform on Google Cloud for real-time tracking, dynamic route optimisation and predictive delay alerts across 70+ countries.",
+  "how_to": "1) Unify shipment events into one lakehouse. 2) Train delay-prediction models. 3) Trigger proactive customer notifications. 4) Feed routes back to dispatch.",
+  "source_url": "https://www.transportandlogisticsme.com/smart-technology-innovation/aramex-launches-ai-first-global-data-foundation-to-power-real-time-logistics-intelligence"
+ },
+ {
+  "slug": "dp-world-cargoes-flow-visibility-at-jebel-ali",
+  "title": "DP World Cargoes Flow visibility at Jebel Ali",
+  "sector": "Logistics & postal",
+  "country": "UAE",
+  "tool": "DP World Cargoes / Cargoes Flow",
+  "summary": "DP World embeds generative AI in container handling and supply-chain finance at Jebel Ali, with Cargoes Flow powering shipment visibility (per trade press).",
+  "how_to": "1) Connect carrier and port events via API. 2) Build a single live shipment view. 3) Use AI to predict ETAs and flag exceptions. 4) Automate customer updates.",
+  "source_url": "https://aiinarabia.com/business/gulf-logistics-ai-deployment-2026"
+ },
+ {
+  "slug": "ai-agent-pre-checks-zatca-invoices-before-submission",
+  "title": "AI agent pre-checks ZATCA invoices before submission",
+  "sector": "ZATCA e-invoicing",
+  "country": "Saudi Arabia",
+  "tool": "Custom AI compliance agent",
+  "summary": "A Saudi retail group with 50,000+ monthly invoices added an AI compliance layer above its ZATCA Phase 2 integration; rejections fell from 3\u20135% to 0.15% (vendor case study).",
+  "how_to": "1) Normalise invoices from all sources (ERP, POS, e-commerce). 2) Validate against ZATCA rules before submission. 3) Learn from past rejections. 4) Auto-fix safe issues, send the rest to finance for review.",
+  "source_url": "https://www.ateamsoftsolutions.com/how-an-ai-compliance-agent-monitors-50000-monthly-invoices-for-zatca-violations-before-they-become-penalties-for-a-saudi-retail-conglomerate/"
+ },
+ {
+  "slug": "zatca-phase-2-integration-on-odoo",
+  "title": "ZATCA Phase 2 integration on Odoo",
+  "sector": "ZATCA e-invoicing",
+  "country": "Saudi Arabia",
+  "tool": "Odoo + ZATCA Fatoora API",
+  "summary": "A retail/manufacturing client automated CSID onboarding, ECDSA signing, real-time B2B clearance and B2C QR codes in Odoo (vendor case study).",
+  "how_to": "1) Onboard to the Fatoora sandbox and get CSIDs. 2) Generate UBL 2.1 XML with hash and signature. 3) Queue clearance calls with retries. 4) Monitor rejections on a dashboard.",
+  "source_url": "https://www.maifelz.com/case-studies/zatca-phase-2-retail-manufacturing-saudi-arabia"
+ },
+ {
+  "slug": "zatca-e-invoicing-middleware-for-dynamics-365-business-central",
+  "title": "ZATCA e-invoicing middleware for Dynamics 365 Business Central",
+  "sector": "ZATCA e-invoicing",
+  "country": "Saudi Arabia",
+  "tool": "ZATCA-certified middleware",
+  "summary": "Dominion Global adopted ZATCA-certified middleware integrated with Business Central to automate validation, clearance and reporting (integrator case study).",
+  "how_to": "1) Choose certified middleware for your ERP. 2) Map invoice fields. 3) Test in sandbox then go live per your wave. 4) Archive and reconcile automatically.",
+  "source_url": "https://www.bemea.com/case-study-zatca-e-invoicing-dominion-global/"
+ },
+ {
+  "slug": "zatca-integration-for-oracle-fusion",
+  "title": "ZATCA integration for Oracle Fusion",
+  "sector": "ZATCA e-invoicing",
+  "country": "Saudi Arabia",
+  "tool": "Oracle Fusion + Fatoora",
+  "summary": "A GCC engineering and trading group connected Oracle Fusion to Fatoora with validation, telemetry, UAT and 12 months of managed support (integrator case study).",
+  "how_to": "1) Assess current Fusion setup. 2) Build connectors for generation, transmission and status retrieval. 3) Add centralised monitoring. 4) Plan cutover and post-go-live support.",
+  "source_url": "https://innovagecloud.com/case-studies/oracle-fusion-zatca-e-invoicing-integration"
+ },
+ {
+  "slug": "aldar-voice-enabled-agentic-payment",
+  "title": "Aldar voice-enabled agentic payment",
+  "sector": "Real estate",
+  "country": "UAE",
+  "tool": "Visa + Aldar AI agent",
+  "summary": "Visa and Aldar completed the region's first end-to-end voice-enabled agentic payment, letting residents pay service charges via an AI agent.",
+  "how_to": "1) Expose a payments API with tokenised cards. 2) Add a voice agent that authenticates and confirms amounts. 3) Require explicit voice/biometric consent. 4) Send receipts and log the transcript.",
+  "source_url": "https://ae.visamiddleeast.com/en_AE/about-visa/newsroom/press-releases/prl-18122025.html"
+ },
+ {
+  "slug": "dubai-land-department-ai-initial-registration",
+  "title": "Dubai Land Department AI Initial Registration",
+  "sector": "Real estate",
+  "country": "UAE",
+  "tool": "DLD AI platform",
+  "summary": "DLD launched an AI-powered Initial Registration platform that extracts data from documents and automates approval of eligible developer transactions.",
+  "how_to": "1) Define eligibility rules. 2) Use document AI to extract fields. 3) Auto-approve clean cases and queue the rest. 4) Audit samples of auto-approvals.",
+  "source_url": "https://www.wam.ae/en/article/c227c90-dubai-land-department-launches-ai-powered-initial"
+ },
+ {
+  "slug": "dubai-land-department-and-google-cloud-smart-solutions",
+  "title": "Dubai Land Department and Google Cloud smart solutions",
+  "sector": "Real estate",
+  "country": "UAE",
+  "tool": "Google Cloud",
+  "summary": "DLD partnered with Google Cloud on smart solutions to improve market efficiency and the investor experience.",
+  "how_to": "1) Centralise property data in the cloud. 2) Add AI search and analytics for investors. 3) Publish market insights. 4) Iterate with user feedback.",
+  "source_url": "https://dubailand.gov.ae/en/news-media/dubai-land-department-google-cloud-provide-smart-solutions-to-enhance-market-efficiency-and-elevate-the-investors-experience/"
+ },
+ {
+  "slug": "seha-virtual-hospital-ai-heart-diagnosis",
+  "title": "Seha Virtual Hospital AI heart diagnosis",
+  "sector": "Healthcare",
+  "country": "Saudi Arabia",
+  "tool": "AI cardiac detection",
+  "summary": "Saudi MoH reported that Seha Virtual Hospital validated AI performance in heart disease diagnosis.",
+  "how_to": "1) Pick a high-volume diagnostic task. 2) Validate the AI against specialist reads. 3) Deploy as decision support. 4) Monitor accuracy continuously.",
+  "source_url": "https://www.moh.gov.sa/en/ministry/mediacenter/news/pages/news-2025-10-28-003.aspx"
+ },
+ {
+  "slug": "arabic-triage-agents-in-seha-virtual-hospital",
+  "title": "Arabic triage agents in Seha Virtual Hospital",
+  "sector": "Healthcare",
+  "country": "Saudi Arabia",
+  "tool": "Tawazun AI Health agents",
+  "summary": "Seha Virtual Hospital reportedly added sovereign Arabic AI triage agents in 2026, with human oversight for clinical decisions (trade press).",
+  "how_to": "1) Script triage protocols. 2) Run an Arabic conversational agent to collect symptoms. 3) Route to the right clinician with a summary. 4) Keep clinicians accountable for decisions.",
+  "source_url": "https://aiinarabia.com/healthcare/saudi-seha-virtual-hospital-tawazun-ai-agents-2026"
+ },
+ {
+  "slug": "ehs-amal-ai-physician-assistant",
+  "title": "EHS 'Amal' AI physician assistant",
+  "sector": "Healthcare",
+  "country": "UAE",
+  "tool": "Amal (Boston Health AI)",
+  "summary": "Emirates Health Services launched Amal, a UAE-hosted multi-agent AI physician assistant that takes pre-consultation histories and summaries, starting in teleconsultations.",
+  "how_to": "1) Have the agent take history before the consult. 2) Generate a structured summary for the doctor. 3) Host in-country for data residency. 4) Start in low-acuity teleconsults.",
+  "source_url": "https://www.healthcaremea.com/2026/02/27/emirates-health-services-partners-with-boston-health-ai-to-launch-amal-at-whx-dubai-2026/"
+ },
+ {
+  "slug": "m42-predictive-health-in-abu-dhabi",
+  "title": "M42 predictive health in Abu Dhabi",
+  "sector": "Healthcare",
+  "country": "UAE",
+  "tool": "M42 AI tools",
+  "summary": "M42's chief said Abu Dhabi's health system is predicting disease before patients fall sick, with AI clinical tools under physician oversight.",
+  "how_to": "1) Combine EHR and genomic data with consent. 2) Build risk models for chronic disease. 3) Trigger outreach for high-risk patients. 4) Measure outcomes.",
+  "source_url": "https://www.khaleejtimes.com/uae/abu-dhabi-health-system-predicting-disease-before-patients-sick"
+ },
+ {
+  "slug": "emirates-group-and-openai-collaboration",
+  "title": "Emirates Group and OpenAI collaboration",
+  "sector": "Travel & aviation",
+  "country": "UAE",
+  "tool": "OpenAI",
+  "summary": "Emirates Group partnered with OpenAI to accelerate enterprise AI adoption and innovation.",
+  "how_to": "1) Roll out an enterprise assistant to staff. 2) Identify top workflows (ops, CX). 3) Build custom GPTs/agents with guardrails. 4) Train champions per department.",
+  "source_url": "https://www.dubaiprnetwork.com/pr.asp?pr=188803"
+ },
+ {
+  "slug": "airline-agentic-ai-cuts-live-contacts-by-45",
+  "title": "Airline agentic AI cuts live contacts by 45%",
+  "sector": "Arabic customer service",
+  "country": "UAE",
+  "tool": "Atain agentic AI",
+  "summary": "A leading Middle Eastern airline used multilingual agentic AI for disruptions and self-service, reducing live contacts by up to 45% (vendor case study).",
+  "how_to": "1) Automate rebooking and refund intents end-to-end. 2) Pre-empt disruptions with proactive messages. 3) Support Arabic and English voice/chat. 4) Track containment during peaks.",
+  "source_url": "https://atain.com/client-outcome/agentic-ai-helps-a-leading-middle-eastern-airline-reduce-live-contacts-by-45-and-maintain-%E2%89%A590-even-during-disruptions/"
+ },
+ {
+  "slug": "e-rolls-arabic-copilot-to-50k-staff",
+  "title": "e& rolls Arabic Copilot to 50k staff",
+  "sector": "Telecom",
+  "country": "UAE",
+  "tool": "Microsoft 365 Copilot",
+  "summary": "e& pushed Arabic-capable Copilot to about 50,000 UAE staff (trade press).",
+  "how_to": "1) Pilot with power users. 2) Clean up permissions before rollout. 3) Provide Arabic prompt libraries. 4) Measure adoption per team.",
+  "source_url": "https://aiinarabia.com/business/etisalat-eand-microsoft-copilot-arabic-uae-rollout-2026-04-28"
+ },
+ {
+  "slug": "arabic-voice-agents-live-at-e",
+  "title": "Arabic voice agents live at e&",
+  "sector": "Arabic customer service",
+  "country": "UAE",
+  "tool": "Arabic.AI + HeyBreez",
+  "summary": "Arabic.AI and HeyBreez voice agents went live for consumer calls at e& (trade press).",
+  "how_to": "1) Pick top call reasons. 2) Deploy dialect-aware Arabic ASR + TTS. 3) Connect to billing/CRM APIs. 4) Transfer to humans with full context.",
+  "source_url": "https://aiinarabia.com/arabic-ai/arabic-ai-heybreez-etisalat-voice-agents-gulf-enterprise-2026"
+ },
+ {
+  "slug": "stc-bahrain-gennext-contact-centre",
+  "title": "stc Bahrain GenNext contact centre",
+  "sector": "Telecom",
+  "country": "Bahrain",
+  "tool": "stc Bahrain 'Bayan'",
+  "summary": "stc Bahrain unveiled an integrated GenNext contact centre with Arabic-dialect voice and chat agents aiming to resolve most routine contacts.",
+  "how_to": "1) Unify voice, chat and social queues. 2) Add Arabic dialect bots for routine intents. 3) Give human agents AI summaries. 4) Report resolution rates.",
+  "source_url": "https://www.zawya.com/en/business/stc-bahrain-unveils-first-fully-integrated-gennext-contact-centre-479106"
+ },
+ {
+  "slug": "dewa-rammas-virtual-employee",
+  "title": "DEWA Rammas virtual employee",
+  "sector": "Utilities",
+  "country": "UAE",
+  "tool": "Rammas (ChatGPT-powered)",
+  "summary": "DEWA's virtual employee Rammas handled over 1.6 million inquiries in 2025.",
+  "how_to": "1) Start with bill, connection and outage intents. 2) Ground answers in account data. 3) Offer Arabic and English. 4) Publish volumes and satisfaction.",
+  "source_url": "https://www.wam.ae/en/article/171eicb-dewa%E2%80%99s-virtual-employee-rammas-handled-over-16"
+ },
+ {
+  "slug": "dewa-services-in-the-chatgpt-apps-directory",
+  "title": "DEWA services in the ChatGPT Apps Directory",
+  "sector": "Utilities",
+  "country": "UAE",
+  "tool": "ChatGPT Apps",
+  "summary": "DEWA made its services available through the ChatGPT Apps Directory.",
+  "how_to": "1) Expose secure service APIs. 2) Build an app/connector for the assistant platform. 3) Authenticate users via OAuth. 4) Limit to safe, reversible actions first.",
+  "source_url": "https://www.wam.ae/en/article/bymyl9z-dewa-provides-its-services-through-chatgpt-apps"
+ },
+ {
+  "slug": "dewa-deploys-agentic-ai-across-digital-platforms",
+  "title": "DEWA deploys agentic AI across digital platforms",
+  "sector": "Utilities",
+  "country": "UAE",
+  "tool": "DEWA agentic AI",
+  "summary": "DEWA deployed agentic AI across its digital platforms.",
+  "how_to": "1) Inventory customer journeys. 2) Add agents that complete multi-step requests. 3) Keep human approval for high-impact actions. 4) Monitor and iterate.",
+  "source_url": "https://www.bignewsnetwork.com/news/279170541/dewa-deploys-agentic-ai-across-its-digital-platforms"
+ },
+ {
+  "slug": "dubai-rta-ai-strategy-2030-with-81-projects",
+  "title": "Dubai RTA AI Strategy 2030 with 81 projects",
+  "sector": "Government services",
+  "country": "UAE",
+  "tool": "RTA Mahboub chatbot + AI projects",
+  "summary": "Dubai's RTA launched an AI Strategy 2030 with 81 projects and initiatives, including generative AI for its Mahboub chatbot.",
+  "how_to": "1) Build a portfolio of use cases by impact. 2) Upgrade existing chatbots with genAI. 3) Set KPIs per project. 4) Review annually.",
+  "source_url": "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/launching-ai-strategy-2030-featuring-81-projects-and-initiatives"
+ },
+ {
+  "slug": "dubai-agentic-ai-for-government-services-accelerator",
+  "title": "Dubai Agentic AI for Government Services Accelerator",
+  "sector": "Government services",
+  "country": "UAE",
+  "tool": "Dubai Future Foundation",
+  "summary": "Dubai launched an accelerator for agentic AI in government services involving 33 entities and 300+ use cases.",
+  "how_to": "1) Collect use cases across entities. 2) Pair entities with vendors in short sprints. 3) Use shared compliance guidance. 4) Scale winners.",
+  "source_url": "https://www.wam.ae/en/article/c2l973i-dubai-future-foundation-launches-agentic-for"
+ },
+ {
+  "slug": "abu-dhabi-ainative-training-for-all-government-staff",
+  "title": "Abu Dhabi AiNative training for all government staff",
+  "sector": "Government services",
+  "country": "UAE",
+  "tool": "AiNative programme",
+  "summary": "Abu Dhabi launched an AiNative training initiative for its entire government workforce and the public.",
+  "how_to": "1) Define role-based AI skill levels. 2) Deliver short practical modules. 3) Certify staff. 4) Link training to live use cases.",
+  "source_url": "https://www.wam.ae/en/article/c2mg2nh-abu-dhabi-launches-ainative-training-initiative"
+ }
+]
